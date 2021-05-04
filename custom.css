@@ -8,7 +8,7 @@ body {
   font-size: 1.7rem;
 }*/
 
-.page h1:not(:first-of-type)::before {
+.page h2:not(:first-of-type)::before {
   display: block;
   margin: 40px auto 30px auto;
   content: "";
