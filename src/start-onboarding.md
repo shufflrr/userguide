@@ -27,4 +27,4 @@ The better your content, the better your results! Here are some tips for creatin
 * Task your SMEs with using the templates to create slides relevant to their expertise. They can repurpose their best existing decks! 
 	* [Create a new deck from a template]()
 * Note: If you don't want to create design templates, you can just ask SMEs for their existing decks; you'll get content faster, but you won't be able to unify or update branding the same way.
-	* [Upload existing material](presentations-upload.md)
+	* [Upload existing material](presentations-uploading.md)

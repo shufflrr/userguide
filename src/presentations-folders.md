@@ -9,7 +9,7 @@
 
 Click the little down-arrow on the right side of the folder name. "Create Folder" is one of the options.  
 
-<img src="img/upload-makefolder.png">
+![Create a folder](img/upload-makefolder.png)
 
 Once your folders are organized, you can begin [uploading content](presentations-upload.md).
 
