@@ -1,0 +1,49 @@
+@import "css/variables.css";
+
+/*html {
+  font-family: "Proxima Vara", "Open Sans", sans-serif;
+}
+
+body {
+  font-size: 1.7rem;
+}*/
+
+.page h1:not(:first-of-type)::before {
+  display: block;
+  margin: 40px auto 30px auto;
+  content: "";
+  height: 1px;
+  width: 80%;
+  background: #cccccc;
+}
+
+/*.page blockquote::before {
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  float: left;
+  content: "";
+  background-image: url(bug.svg);
+  background-size: 40px 40px;
+}*/
+
+#menu-bar #theme-toggle {
+  display: none;
+}
+
+#header-nav-wrapper {
+  position: relative;
+  background-color: var(--sidebar-bg);
+  color: var(--sidebar-fg);
+}
+
+#header-nav-wrapper .header-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--page-padding);
+}
+
+#header-nav-wrapper .logo {
+  width: 160px;
+}
