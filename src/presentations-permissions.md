@@ -28,6 +28,6 @@
     * _Write_  means users can edit the slides and presentations in this folder. 
 * For Read or Write, select whether this group can share presentations or not (Full Control always means sharing is allowed). Sharing a presentation gives the user the ability to send it to anyone internal or external in a read-only, slide-show-viewer format. 
 
-> **Tip:** 
+> **Pro tip:** 
 >
 > You can also grant permissions to an individual.
