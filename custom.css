@@ -12,8 +12,20 @@ body {
   pointer-events: none;
 }
 
-#theme-toggle {
+#theme-toggle, #print-button {
   display: none;
+}
+
+.page h1 > a {
+  color: white !important;
+  background-color: #0088cc;
+  padding: 1rem 1.6rem;
+  border-radius: 6px;
+  margin-left: -1.6rem;
+}
+
+.page h2 > a {
+  color: #0088cc !important;
 }
 
 .page h2:not(:nth-child(2))::before {
