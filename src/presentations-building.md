@@ -20,7 +20,8 @@ Now, you can open another presentation and drag more slides to your tray. Keep g
 When you have the slides you need in your tray, **save the presentation** before going further. 
 ![Save before proceeding](img/presentations-savefirst.png)
 
-> *Q & A*
+> **Q & A**
+>
 > Q. What happens when you put slides in your slide tray, then leave them there, instead of saving right away? 
 >
 > A. When eventually you go to save, **the parent may have been updated** - meaning it no longer exists in the same form as when you dragged it to your tray. In this case the **system will not let you save.** 
@@ -35,7 +36,8 @@ When you have the slides you need in your tray, **save the presentation** before
 You can edit your slides right in Shufflrr! 
 ![How to edit](img/presentations-editchild.png)
 
-> *Pro tip!* 
+> **Pro tip!**
+> 
 > Don't download the deck to make changes in another application. This will break the [parent-child relationship](presentations-slide-inheritance.md), and updates will not come through to the child. 
 
     
