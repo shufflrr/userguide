@@ -23,5 +23,6 @@ Once your folder structure is created, you can begin uploading the central libra
 * When slides are ready, a blue "Edit" button will appear. Click it to modify the slides.  
 
 
-> **Tip:** 
+> **Pro tip:** 
+>
 >  Accidentally put the folder or file in the wrong place? Click the down arrow next to the file or folder name for the option to move it. Select the new parent folder. 
