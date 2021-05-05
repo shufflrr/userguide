@@ -17,22 +17,11 @@ body {
   background: #cccccc;
 }
 
-/*.page blockquote::before {
-  width: 40px;
-  height: 40px;
-  margin: 5px;
-  float: left;
-  content: "";
+.page blockquote > p:first-child {
+  padding-left: 2em;
   background-image: url(bug.svg);
-  background-size: 40px 40px;
-}*/
-
-#menu-bar-hover-placeholder {
-  pointer-events: none;
-}
-
-#menu-bar #theme-toggle {
-  display: none;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
 }
 
 #header-nav-wrapper {
