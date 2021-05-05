@@ -25,4 +25,4 @@ Once your folder structure is created, you can begin uploading the central libra
 
 > **Pro tip:** 
 >
->  Accidentally put the folder or file in the wrong place? Click the down arrow next to the file or folder name for the option to move it. Select the new parent folder. 
+> Accidentally put the folder or file in the wrong place? Click the down arrow next to the file or folder name for the option to move it. Select the new parent folder. 

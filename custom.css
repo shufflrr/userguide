@@ -8,7 +8,15 @@ body {
   font-size: 1.7rem;
 }
 
-.page h2:not(:first-of-type)::before {
+#menu-bar-hover-placeholder {
+  pointer-events: none;
+}
+
+#theme-toggle {
+  display: none;
+}
+
+.page h2:not(:nth-child(2))::before {
   display: block;
   margin: 40px auto 30px auto;
   content: "";
@@ -44,6 +52,7 @@ body {
 
 #header-nav-wrapper .menu-items {
   display: flex;
+  align-items: center;
 }
 
 #header-nav-wrapper .menu-item {
@@ -51,4 +60,10 @@ body {
   font-weight: bold;
   text-decoration: none;
   color: white;
+}
+
+#header-nav-wrapper .menu-item:last-child {
+  background-color: #0088cc;
+  padding: 0.5rem 1.1rem;
+  border-radius: 3px;
 }
