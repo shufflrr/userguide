@@ -13,5 +13,6 @@
 * Select whether to allow downloads and whether to get alerts, & set an expiry if needed.
 * The success popup will have a link you can click to see the share. 
 
-> **Tip:**
+> **Pro tip:**
+>
 > If you want to pass the file to someone for approval, use [workflow tags](admin-tags-workflow.md), not shares! 

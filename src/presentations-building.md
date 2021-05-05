@@ -21,7 +21,8 @@
 	* Don't download the deck to make changes in another application. This will break the [parent-child relationship](presentations-parentchild.md), and updates will not come through to the child. 
 
     
-> **Tip:**
+> **Pro tip:**
+>
 > Q. What happens when you put slides in your slide tray, then leave them there, instead of saving right away? 
 >
 > A. When eventually you go to save, **the parent may have been updated** - meaning it no longer exists in the same form as when you dragged it to your tray. In this case the **system will not let you save.**     

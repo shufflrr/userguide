@@ -13,7 +13,8 @@ Click the little down-arrow on the right side of the folder name. "Create Folder
 
 Once your folders are organized, you can begin [uploading content](presentations-upload.md).
 
-> #### Pro tips! 
+> **Pro tips**
+>
 > * Organize the folders for the content _before_ it comes in.
 > * Organize folders to match your corporate structure.
 > * [Add permissions](presentations-permissions.md) to maintain confidentiality and simplify searches.  
