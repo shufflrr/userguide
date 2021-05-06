@@ -1,5 +1,11 @@
 @import "css/variables.css";
 
+/* ---BEGIN EXPERIMENTAL--- */
+img[src *= "nolineai.png"] {
+  filter: drop-shadow(0 0.2rem 0.25rem rgba(0, 0, 0, 0.2));
+}
+/* ---END EXPERIMENTAL--- */
+
 html {
   font-family: "Proxima Vara", "Open Sans", sans-serif;
 }
