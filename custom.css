@@ -4,6 +4,9 @@
 img[src *= "nolineai.png"] {
   filter: drop-shadow(0 0.2rem 0.25rem rgba(0, 0, 0, 0.2));
 }
+img[src *= "s4.png"] {
+  filter: drop-shadow(0 0.4rem 0.65rem rgba(0, 0, 0, 0.5));
+}
 /* ---END EXPERIMENTAL--- */
 
 html {
