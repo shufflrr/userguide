@@ -32,7 +32,6 @@
 ![Select read, write, and share as appropriate](img/presentations-permissions-modal2.png)
 
 
-
 > *Pro tip!*
 > 
 > You can also grant permissions to an individual

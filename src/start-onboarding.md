@@ -21,6 +21,7 @@ The better your content, the better your results! Here are some tips for creatin
 	* [Set up folders](presentations-folders.md)
 * Include permissions on folders to make things easier to find, as well as to restrict access*
 	* [Set up permissions](presentations-permissions.md)
+<a name="gettingcontent"></a>
 3. **Ways to get slides and decks for the library:**
 * Have designers create templates with the company branding. 
 	* [Set up templates]()

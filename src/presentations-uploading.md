@@ -3,13 +3,13 @@
 ## Why upload material? 
 
 * Maintain a central library of all your corporate slides. 
-* Maintain branding, messaging, accuracy, oversight, confidentiality, compliance. 
+* Maintain centralized branding, messaging, accuracy, oversight, confidentiality, compliance. 
 * Use existing material to make new decks without duplication of effort. 
 
 ## Steps
 
 Once your folder structure is created, you can begin uploading the central library decks.
-* The better your content, the better your results! [Check here]() for some tips on gathering great content for the slide library. 
+* The better your content, the better your results! [Check here](start-onboarding.md#gettingcontent) for some tips on gathering great content for the slide library. 
 * You can upload decks in different ways: 
     * Either way, first use the left navigation pane to open the folder where you want material to land
     * Drag a deck (or a whole folder!) into the area on the home page labeled for drag & drop, or...

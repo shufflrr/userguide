@@ -1,8 +1,14 @@
 # Build new presentation
 
-## Why build a new ("child") presentation from old ("parent") presentations?
+## Why build a new ("child") presentation from existing ("parent") presentations?
 
-* Maintain "child" presentations' branding, messaging, accuracy, oversight, confidentiality, and compliance. 
+* Updating "parent" presentations updates the "children," meaning that all "child" presentations stay consistent in 		
+	* branding
+	* messaging
+	* accuracy
+	* oversight
+	* confidentiality
+	* compliance 
 * Use existing material to make new decks without duplication of effort. 
 
 ## Steps
@@ -28,7 +34,7 @@ When you have the slides you need in your tray, **save the presentation** before
 
 
 ![How to save](img/presentations-savechild.png)
-* When you save, processing can take a few minutes (see [processing](presentations-upload.md#uploadProcessing) for details)
+* When you save, processing can take a few minutes (see [processing](presentations-uploading.md#uploadProcessing) for details)
 * **Until processing is done, you won't see the presentation in the left navigation.** 
 * This save creates a new deck of "child" slides in your personal folder. 
 * Now you can edit them, reorder them, whatever you need to do. 
