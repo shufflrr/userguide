@@ -12,7 +12,7 @@ body {
   pointer-events: none;
 }
 
-#theme-toggle, #print-button {
+#theme-toggle {
   display: none;
 }
 

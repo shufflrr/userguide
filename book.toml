@@ -7,3 +7,6 @@ title = "Shufflrr How-To"
 
 [output.html]
 additional-css = ["fonts.css", "custom.css"]
+
+[output.html.print]
+enable = false
