@@ -1,4 +1,4 @@
-# Build new presentation
+# Building new presentations
 
 ## Why build a new ("child") presentation from existing ("parent") presentations?
 
@@ -10,6 +10,10 @@
 	* confidentiality
 	* compliance 
 * Use existing material to make new decks without duplication of effort. 
+
+> **Pro tip!** 
+>
+> Parent-child updates and saving time with existing material are two key features of Presentation Management! 
 
 ## Steps
 There are two ways to see existing slides that you might want to use in a new presentation. 
@@ -44,7 +48,7 @@ You can edit your slides right in Shufflrr!
 
 > **Pro tip!**
 > 
-> Don't download the deck to make changes in another application. This will break the [parent-child relationship](presentations-slide-inheritance.md), and updates will not come through to the child. 
+> If you download the deck to make changes in another application, be sure to upload it with the *same name*. Otherwise, you will break the [parent-child relationship](presentations-slide-inheritance.md), and updates will not come through to the children. 
 
     
     

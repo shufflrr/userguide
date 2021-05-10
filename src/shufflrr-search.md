@@ -1,6 +1,9 @@
 # Search
 
+_Search is key to shuffling slides into new decks and using them on the fly - Presentation Management at its best!_ 
+
 ## Why search?
+
 * Find slides to add to a presentation.
 * Find a presentation for editing. 
 * Find a slide that isn't in your pre-made deck during a PresentLive session. 

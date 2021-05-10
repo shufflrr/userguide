@@ -1,4 +1,6 @@
-# Version Control: Accepting/rejecting parent changes in child decks
+# Accepting/rejecting parent changes
+
+_Version Control (accepting/rejecting parent changes in child decks) is key to Presentation Management!_
 
 ## Why accept changes? 
 
