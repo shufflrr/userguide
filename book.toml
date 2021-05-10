@@ -7,7 +7,7 @@ title = "Shufflrr How-To"
 
 [output.html]
 additional-css = ["fonts.css", "custom.css"]
-git-repository-url = "https://github.com/shufflrr"
+git-repository-url = "https://github.com/shufflrr/userguide"
 git-repository-icon = "fa-github"
 cname = "howto.shufflrr.com"
 
