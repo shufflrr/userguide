@@ -67,6 +67,12 @@ body {
   padding: var(--page-padding);
 }
 
+#header-nav-wrapper .header-nav-left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 #header-nav-wrapper .logo {
   width: 160px;
 }
@@ -108,6 +114,8 @@ body {
   padding: 1rem;
   border-radius: 50%;
 }
+
+#header-nav-wrapper .social
 
 #header-nav-wrapper .linkedin {
   background-color: #00a0dc;
