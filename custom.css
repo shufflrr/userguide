@@ -25,6 +25,11 @@ body {
   display: none;
 }
 
+.chapter .spacer {
+  height: 1px;
+  margin: 1rem 0;
+}
+
 .page h1 > a {
   color: white !important;
   background-color: #0088cc;
@@ -69,7 +74,7 @@ body {
 
 #header-nav-wrapper .header-nav-left {
   display: flex;
-  justify-content: center;
+  align-items: center;
   align-items: center;
 }
 
