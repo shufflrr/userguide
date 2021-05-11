@@ -16,7 +16,7 @@
     - [File Sharing](presentations-file-sharing.md)
     - [Present Live](presentations-present-live.md)
 - [Browse](browse.md)
-- [Upload](upload.md)
+- [Upload](presentations-uploading.md)
 - [Builder](builder.md)
 - [Reports](reports.md)
     - [Dashboard](reports-dashboard.md)
