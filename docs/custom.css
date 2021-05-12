@@ -25,6 +25,11 @@ body {
   display: none;
 }
 
+.chapter .spacer {
+  height: 1px;
+  margin: 1rem 0;
+}
+
 .page h1 > a {
   color: white !important;
   background-color: #0088cc;
