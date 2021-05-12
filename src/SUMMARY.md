@@ -1,4 +1,4 @@
-# SUMMARY
+# USER GUIDE
 
 - [Getting Started](start-onboarding.md)
 - [General]()
@@ -27,7 +27,7 @@
     - [Likes](reports-likes.md)
     - [Comments](reports-comments.md)
     - [Shares](reports-shares.md)
-    - [Present Live Sessions](reports-present-live.md)
+    - [PresentLive™ Sessions](reports-present-live.md)
 - [Admin](admin.md)
     - [Users](admin-users.md)
     - [Groups](admin-groups.md)
