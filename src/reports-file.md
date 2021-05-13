@@ -1,8 +1,8 @@
 # Reports: File
 
-_Part of Presentation Management is reporting: tracking what works and what can be improved._
-
 ## Why use the "File" report?
+
+Part of Presentation Management is reporting: tracking what works and what can be improved.
 
 The file tab tells you how files in your enterprise Presentation Management system are being used. 
 

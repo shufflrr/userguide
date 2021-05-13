@@ -1,4 +1,4 @@
-# PresentLive™ Sessions
+# Reports: PresentLive™ Sessions
 
 ## Why use the "PresentLive™ Sessions" report?
 * Determine best practices: Check out how your most successful sales and marketing people are utilizing PresentLive™ to improve their efficacy
@@ -20,6 +20,5 @@ The last column contains links to the session log and to a list of attendees.
 
 ![PresentLive Session Log](img/reports-presentlive-sessionlog.png)
 
-* The attendees list shows both the attendees and the time they joined the session. 
-
+* The attendees list shows both the attendees and the time they joined the session.
 ![PresentLive Session Attendee list](img/reports-presentlive-attendees.png)

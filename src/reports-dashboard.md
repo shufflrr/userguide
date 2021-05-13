@@ -1,8 +1,8 @@
 # Reports: Dashboard
 
-_Part of Presentation Management is reporting: tracking what works and what can be improved._
-
 ## Why use the dashboard?
+
+Part of Presentation Management is reporting: tracking what works and what can be improved.
 
 The dashboard is your first stop in reporting. It gives you an overview of how users are working with your Presentation Management assets in Shufflrr.
 

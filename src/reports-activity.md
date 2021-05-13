@@ -11,4 +11,12 @@ The activity report can tell you about:
 >
 > Track the activity of your most successful sales and marketing people to identify best practices and train others! 
 
+## Steps
+
+Click the "Reports" icon and the "Activity" tab.
+
+* The dropdowns along the top are filters; set them up and click "Apply" to add them.
+* The column header filters can also be used to narrow down what you want to look at. 
+* Click "Change" at top left by the dates to select a different date range. 
+
 ![Activity reports tab](img/reports-activity.png)

@@ -1,12 +1,11 @@
 # Uploading
 
-_Uploading, organizing, and publishing enterprise assets are the key components of Presentation Management!_
-
 ## Why upload material? 
 
 * Maintain a central library of all your corporate slides. 
 * Maintain centralized branding, messaging, accuracy, oversight, confidentiality, compliance. 
 * Use existing material to make new decks without duplication of effort. 
+* Uploading, organizing, and publishing enterprise assets are the key components of Presentation Management!
 
 ## Steps
 
