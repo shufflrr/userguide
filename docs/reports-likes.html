@@ -134,6 +134,7 @@
 	<span class="menu-item slogan">The leader in presentation management.</span>
       </div>
       <label for="reveal-menu">
+	Menu
 	<i class="fa fa-bars" aria-hidden="true"></i>
       </label>
       <div class="header-nav-right">
@@ -148,7 +149,7 @@
 	  <a class="menu-item social-icon" href="https://twitter.com/shufflrr"><i class="fa fa-twitter" target="_blank"></i></a>
 	</span>
 	<label for="reveal-menu">
-	  <i class="menu-item fa fa-window-close"></i>
+	  <i class="menu-item fa fa-times"></i>
 	</label>
       </div>
     </div>
@@ -230,7 +231,8 @@
 <li>The column header filters can also be used to narrow down what you want to look at. </li>
 <li>Click &quot;Change&quot; at top left by the dates to select a different date range. </li>
 </ul>
-<p><img src="img/reports-likes.png" alt="Reports - Likes tab" /></p>
+<p><img src="img/reports-likes.png" alt="Reports - Likes tab" />
+<img src="img/reports-download.png" alt="Download report from the &quot;Apply filters&quot; button" /></p>
 
                     </main>
 
@@ -269,21 +271,6 @@
 
         </div>
 
-        
-        <!-- Livereload script (if served using the cli tool) -->
-        <script type="text/javascript">
-            var socket = new WebSocket("ws://localhost:3000/__livereload");
-            socket.onmessage = function (event) {
-                if (event.data === "reload") {
-                    socket.close();
-                    location.reload();
-                }
-            };
-
-            window.onbeforeunload = function() {
-                socket.close();
-            }
-        </script>
         
 
         
