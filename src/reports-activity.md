@@ -20,3 +20,5 @@ Click the "Reports" icon and the "Activity" tab.
 * Click "Change" at top left by the dates to select a different date range. 
 
 ![Activity reports tab](img/reports-activity.png)
+
+![Download report from the "Apply filters" button](img/reports-download.png)

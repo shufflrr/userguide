@@ -20,3 +20,4 @@ Click the "Reports" icon and the "Comments" tab.
 
 
 ![Report on comments](img/reports-comments.png)
+![Download report from the "Apply filters" button](img/reports-download.png)

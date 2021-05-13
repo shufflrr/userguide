@@ -22,3 +22,5 @@ The last column contains links to the session log and to a list of attendees.
 
 * The attendees list shows both the attendees and the time they joined the session.
 ![PresentLive Session Attendee list](img/reports-presentlive-attendees.png)
+
+![Download report from the "Apply filters" button](img/reports-download.png)

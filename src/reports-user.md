@@ -22,3 +22,4 @@ Click the "Reports" icon and the "User" tab.
 >See how your top sales and marketing team members use Shufflrr, then recommend those activities to others as best practices!
 
 ![Have your most active user train others](img/reports-user-active.png)
+![Download report from the "Apply filters" button](img/reports-download.png)

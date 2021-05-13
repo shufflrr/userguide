@@ -21,4 +21,6 @@ Click the "Reports" icon and the "Shares" tab.
 
 ![Share report](img/reports-share.png)
 
+![Download report from the "Apply filters" button](img/reports-download.png)
+
 

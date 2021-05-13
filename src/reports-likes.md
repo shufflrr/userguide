@@ -18,3 +18,4 @@ Click the "Reports" icon and the "Likes" tab.
 * Click "Change" at top left by the dates to select a different date range. 
 
 ![Reports - Likes tab](img/reports-likes.png)
+![Download report from the "Apply filters" button](img/reports-download.png)

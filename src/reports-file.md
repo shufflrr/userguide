@@ -15,3 +15,4 @@ Click the "Reports" icon and the "File" tab.
 * Click "Change" at top left by the dates to select a different date range. 
 
 ![Reports: file tab](img/reports-file.png)
+![Download report from the "Apply filters" button](img/reports-download.png)
