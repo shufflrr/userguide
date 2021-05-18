@@ -20,9 +20,11 @@ Once your folder structure is created, you can begin uploading the central libra
 	
 ![Uploading from other pages](img/presentations-upload-otherpage.png)
 	
-	
-* <a name="uploadProcessing"></a>File uploading takes a few minutes for processing. Here's how to track that: 
-    * You will see arrows going in a circle at the top right of the screen with a little number showing the number of files being processed.
+<a name="uploadProcessing"></a>
+## File Processing
+
+File processing takes a few minutes when a file is added or saved. Here's how to track that: 
+* You will see arrows going in a circle at the top right of the screen with a little number showing the number of files being processed.
     
 ![Uploading queue icon](img/presentations-upload-queueicon.png)
 

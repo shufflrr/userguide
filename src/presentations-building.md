@@ -46,6 +46,8 @@ When you have the slides you need in your tray, **save the presentation** before
 You can edit your slides right in Shufflrr! 
 ![How to edit](img/presentations-editchild.png)
 
+Visit the [Editing Presentations](presentations-editing.md) page to learn more. 
+
 > **Pro tip!**
 > 
 > If you download the deck to make changes in another application, be sure to upload it with the *same name*. Otherwise, you will break the [parent-child relationship](presentations-slide-inheritance.md), and updates will not come through to the children. 

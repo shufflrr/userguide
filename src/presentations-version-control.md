@@ -1,6 +1,6 @@
-# Accepting/rejecting parent changes
+# Parent-Child Updates
 
-## Why accept changes? 
+## Why propagate parent updates into child decks? 
 
 * Version Control (accepting/rejecting parent changes in child decks) is key to Presentation Management.
 * With version control, you can maintain downstream consistency with corporate changes such as 
