@@ -4,6 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Shufflrr How-To"
+description = "The premiere Presentation Management System"
 
 [output.html]
 additional-css = ["fonts.css", "custom.css"]
@@ -13,3 +14,6 @@ cname = "howto.shufflrr.com"
 
 [output.html.print]
 enable = false
+
+[build]
+build-dir = "docs"
