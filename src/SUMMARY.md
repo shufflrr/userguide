@@ -1,6 +1,6 @@
 # SUMMARY
 
-- [General]()
+- [General](shufflrr.md)
     - [Search](shufflrr-search.md)
     - [Advanced Search](shufflrr-advanced-search.md)
     - [Slide Tray](shufflrr-slide-tray.md)
@@ -14,7 +14,7 @@
     - [Building Child Presentations](presentations-building.md)
     - [Parent-Child Updating](presentations-version-control.md)
     - [File Sharing](presentations-file-sharing.md)
-    - [Present Live™](presentations-present-live.md)
+    - [PresentLive™](presentations-present-live.md)
 - [Browse](browse.md)
 - [Upload](presentations-uploading.md)
 - [Builder](builder.md)
@@ -27,7 +27,7 @@
     - [Likes](reports-likes.md)
     - [Comments](reports-comments.md)
     - [Shares](reports-shares.md)
-    - [Present Live Sessions](reports-present-live.md)
+    - [PresentLive™ Sessions](reports-present-live.md)
 
 [Dictionary](dictionary.md)
 [Contact Us](contact.md)
