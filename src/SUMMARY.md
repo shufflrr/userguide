@@ -1,6 +1,5 @@
 # SUMMARY
 
-- [Getting Started](start-onboarding.md)
 - [General]()
     - [Search](shufflrr-search.md)
     - [Advanced Search](shufflrr-advanced-search.md)
@@ -29,15 +28,6 @@
     - [Comments](reports-comments.md)
     - [Shares](reports-shares.md)
     - [Present Live Sessions](reports-present-live.md)
-- [Admin](admin.md)
-    - [Users](admin-users.md)
-    - [Groups](admin-groups.md)
-    - [Tags](admin-tags.md)
-    	- [Workflows](admin-tags-workflow.md)
-    - [Builders](admin-builders.md)
-    - [Brand Central](admin-brand-central.md)
-    - [Settings](admin-settings.md)
-    - [Billing](admin-billing.md)
 
 [Dictionary](dictionary.md)
 [Contact Us](contact.md)
