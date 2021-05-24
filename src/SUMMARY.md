@@ -15,7 +15,7 @@
     - [Building Child Presentations](presentations-building.md)
     - [Parent-Child Updating](presentations-version-control.md)
     - [File Sharing](presentations-file-sharing.md)
-    - [PresentLive™](presentations-present-live.md)
+    - [Present Live™](presentations-present-live.md)
 - [Browse](browse.md)
 - [Upload](presentations-uploading.md)
 - [Builder](builder.md)
@@ -39,4 +39,5 @@
     - [Settings](admin-settings.md)
     - [Billing](admin-billing.md)
 
+[Dictionary](dictionary.md)
 [Contact Us](contact.md)
