@@ -199,6 +199,10 @@ Each one has specific roles (capabilities) on your Shufflrr site.
 
 All of these can be modified or deleted, except that the "All Users" group cannot be deleted. This is the group that has all site users as members, by default. 
 
+>**Pro Tip!**
+> 
+> If a user is a member of multiple groups, they have **all** the roles from **all** the groups. So, removing roles from "All Users" does not affect users' roles from the other groups they belong to.  
+
 #### Creating new groups
 
 Go to the groups tab & click "Add Group." 
