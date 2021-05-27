@@ -71,6 +71,12 @@ For example:
 * _Pricing.pdf_ goes into the "Product" folder
 * _Logo.png_ goes into the "Marketing" folder
 
+### Your company in Shufflrr
+
+To set up your Shufflrr site to reflect your company's branding, click the "Admin" icon and the "Settings" tab. Here, you can set up the site with your company's logo and "favicon" (the little icon that appears in the browser tab for the site).
+
+![Your company's branding in Shufflrr](img/admin-sitesettings-logos.png)
+
 ### Branding
 
 Now that your content is uploaded and sorted into folders, set the corporate brand identity before going further. This can be done by an administrator in "Brand Central."
@@ -120,18 +126,9 @@ Last step - IMPORTANT! Check the box to make this font available.
 
 ![Check the box to make the font available](img/admin-brandcentral-fonts-4.png) 
 
-
-
-
-
-
 The last tab contains 20 email templates. You can modify the text and/or styling according to your wishes. 
 
 ![Email templates tab](img/admin-brand-central-email.png)
-
-
-
-
 
 ### Creating
 
@@ -189,7 +186,22 @@ To add a user, click the "Admin" icon and "Users" tab. Click the green "Add User
 
 ### Groups
 
-Go to the groups tab & add a group 
+When your Shufflrr site is first set up, there are five existing groups: 
+* All Users 
+* Billing Administrators
+* Portal Administrators
+* Reporting Users
+* User Administrators
+
+Each one has specific roles (capabilities) on your Shufflrr site. 
+
+![Group roles](img/admin-users-roles.png)
+
+All of these can be modified or deleted, except that the "All Users" group cannot be deleted. This is the group that has all site users as members, by default. 
+
+#### Creating new groups
+
+Go to the groups tab & click "Add Group." 
 ![Creating a group](img/presentations-permissions-groups.png)
 
 Once you have saved your group, you are automatically taken to the group settings. Check off the roles you would like for this group overall (not in reference to a folder yet). 

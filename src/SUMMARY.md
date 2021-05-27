@@ -1,6 +1,7 @@
 # SUMMARY
 
-- [General](shufflrr.md)
+- [Getting Started in Shufflrr](shufflrr.md)
+- [General]()
     - [Search](shufflrr-search.md)
     - [Advanced Search](shufflrr-advanced-search.md)
     - [Slide Tray](shufflrr-slide-tray.md)
