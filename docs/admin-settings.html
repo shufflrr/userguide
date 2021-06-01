@@ -220,10 +220,38 @@
 <h2 id="why-use-settings"><a class="header" href="#why-use-settings">Why use settings?</a></h2>
 <p>The settings tab allows the administrator to customize the company's Shufflrr site so that users get a corporate-branded experience with all of Shufflrr's capabilities configured to create exactly the site configuration that is appropriate for your needs. </p>
 <h2 id="steps"><a class="header" href="#steps">Steps</a></h2>
-<p>There are quite a few sections to the settings tab. Click the &quot;Admin&quot; icon and the &quot;Settings&quot; tab to begin exploring.</p>
+<p>There are quite a few sections to the settings tab. Click the &quot;Admin&quot; icon and the &quot;Settings&quot; tab to begin exploring. <em>Be sure to click &quot;Save&quot; at the very bottom of the page to preserve your work in this tab!</em> </p>
 <h3 id="your-company-in-shufflrr"><a class="header" href="#your-company-in-shufflrr">Your company in Shufflrr</a></h3>
 <p>To set up your Shufflrr site to reflect your company's branding, set up the site with your company's logo and &quot;favicon&quot; (the little icon that appears in the browser tab for the site).</p>
 <p><img src="img/admin-sitesettings-logos.png" alt="Your company's branding in Shufflrr" /></p>
+<h3 id="customize-user-experience"><a class="header" href="#customize-user-experience">Customize User Experience</a></h3>
+<p>The next section allows you to set what users see on logging in (&quot;Home Page&quot;) and also, in the &quot;Site Message&quot; section, to customize the text / images that appear at the top of the &quot;Presentations&quot; page (the default homepage). </p>
+<blockquote>
+<p><strong>Pro tip!</strong></p>
+<p>Many companies use the &quot;Site Message&quot; space to provide information on internal resources to help users with Shufflrr, such as training materials and contact people - as in the example below.</p>
+</blockquote>
+<p><img src="img/admin-sitesettings-homepage.png" alt="Customizing the home page" /></p>
+<h3 id="customizing-sharing"><a class="header" href="#customizing-sharing">Customizing sharing</a></h3>
+<p>The next toggle indicates whether new users can request access. </p>
+<p>The following two options relate to sharing. (More info about sharing is <a href="presentations-file-sharing.html">here</a>). First, indicate whether EXTERNAL shares are allowed. Second, create a default message to be used in Shares. </p>
+<blockquote>
+<p><strong>Pro tip!</strong></p>
+<p>This message can still be changed by the user. To incorporate a message that cannot be changed, use the <a href="admin-brand-central.html#email-templates">&quot;Email Templates&quot; functionality in the &quot;Brand Central&quot; tab</a>, specifically the &quot;&quot;FileShared&quot; template.</p>
+</blockquote>
+<p><img src="img/admin-sitesettings-defaultmessage.png" alt="Presentation settings" /></p>
+<h3 id="authentication"><a class="header" href="#authentication">Authentication</a></h3>
+<p>The authentication section includes different ways to authenticate. </p>
+<ul>
+<li>Many companies will use Shufflrr authentication, but, some desire a seamless interface where users who are already logged in to company software can move into Shufflrr without logging in again. </li>
+<li>Salesforce integration is the easiest: the user need only find their <em>Salesforce Organization ID</em>, which can be found in Salesforce → Setup → Company Profile → Company Information. </li>
+<li>SAML Single Sign-On is the most complex. Documentation can be found here: 
+<ul>
+<li><a href="https://shufflrr.com/assets/saml-adfs3.html">ADFS (Microsoft Active Directory) documentation</a></li>
+<li><a href="https://shufflrr.com/assets/saml-okta.html">Okta documentation</a></li>
+</ul>
+</li>
+<li>Last is OpenId. That documentation is <a href="https://shufflrr.com/assets/openid-okta.html">here</a>. </li>
+</ul>
 
                     </main>
 
@@ -262,6 +290,21 @@
 
         </div>
 
+        
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            var socket = new WebSocket("ws://localhost:3000/__livereload");
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
         
 
         

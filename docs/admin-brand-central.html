@@ -242,6 +242,7 @@
 <p><img src="img/admin-brandcentral-fonts-3.png" alt="Adding a font - selecting from your drive" /></p>
 <p>Last step - IMPORTANT! Check the box to make this font available. </p>
 <p><img src="img/admin-brandcentral-fonts-4.png" alt="Check the box to make the font available" /> </p>
+<h4 id="email-templates"><a class="header" href="#email-templates">Email templates</a></h4>
 <p>The last tab contains 20 email templates. You can modify the text and/or styling according to your wishes. </p>
 <p><img src="img/admin-brand-central-email.png" alt="Email templates tab" /></p>
 
@@ -282,6 +283,21 @@
 
         </div>
 
+        
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            var socket = new WebSocket("ws://localhost:3000/__livereload");
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
         
 
         

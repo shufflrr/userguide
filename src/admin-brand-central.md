@@ -51,6 +51,8 @@ Last step - IMPORTANT! Check the box to make this font available.
 
 ![Check the box to make the font available](img/admin-brandcentral-fonts-4.png) 
 
+#### Email templates
+
 The last tab contains 20 email templates. You can modify the text and/or styling according to your wishes. 
 
 ![Email templates tab](img/admin-brand-central-email.png)
