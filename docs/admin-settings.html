@@ -231,16 +231,17 @@
 <p>Many companies use the &quot;Site Message&quot; space to provide information on internal resources to help users with Shufflrr, such as training materials and contact people - as in the example below.</p>
 </blockquote>
 <p><img src="img/admin-sitesettings-homepage.png" alt="Customizing the home page" /></p>
-<h3 id="customizing-sharing"><a class="header" href="#customizing-sharing">Customizing sharing</a></h3>
 <p>The next toggle indicates whether new users can request access. </p>
+<h3 id="customize-sharing"><a class="header" href="#customize-sharing">Customize sharing</a></h3>
 <p>The following two options relate to sharing. (More info about sharing is <a href="presentations-file-sharing.html">here</a>). First, indicate whether EXTERNAL shares are allowed. Second, create a default message to be used in Shares. </p>
+<p><img src="img/admin-sitesettings-defaultmessage.png" alt="Presentation settings" /></p>
 <blockquote>
 <p><strong>Pro tip!</strong></p>
 <p>This message can still be changed by the user. To incorporate a message that cannot be changed, use the <a href="admin-brand-central.html#email-templates">&quot;Email Templates&quot; functionality in the &quot;Brand Central&quot; tab</a>, specifically the &quot;&quot;FileShared&quot; template.</p>
 </blockquote>
-<p><img src="img/admin-sitesettings-defaultmessage.png" alt="Presentation settings" /></p>
+<p><img src="img/admin-sitesettings-defaultmessage2.png" alt="Using an email template for required text" /></p>
 <h3 id="authentication"><a class="header" href="#authentication">Authentication</a></h3>
-<p>The authentication section includes different ways to authenticate. </p>
+<p>The authentication section includes four options. </p>
 <ul>
 <li>Many companies will use Shufflrr authentication, but, some desire a seamless interface where users who are already logged in to company software can move into Shufflrr without logging in again. </li>
 <li>Salesforce integration is the easiest: the user need only find their <em>Salesforce Organization ID</em>, which can be found in Salesforce → Setup → Company Profile → Company Information. </li>
@@ -252,6 +253,27 @@
 </li>
 <li>Last is OpenId. That documentation is <a href="https://shufflrr.com/assets/openid-okta.html">here</a>. </li>
 </ul>
+<h3 id="ip-address-whitelisting-allow-listing"><a class="header" href="#ip-address-whitelisting-allow-listing">IP Address Whitelisting (Allow-listing)</a></h3>
+<h3 id="presentations-settings"><a class="header" href="#presentations-settings">Presentations Settings</a></h3>
+<p>In the &quot;Presentations&quot; section, admins can limit the number of slides used. Admins can also allow or block automatic updating (see <a href="presentations-slide-inheritance.html">Parent-Child Relationships</a> and <a href="presentations-version-control.html">Parent-Child Updating</a> for more information on automatic updates). Allowing a Master Template is not recommended. </p>
+<p><img src="img/admin-sitesettings-presentationsettings1.png" alt="Presentations settings" /></p>
+<h4 id="data-fields"><a class="header" href="#data-fields">Data fields</a></h4>
+<p>Data fields can be used to create placeholders on &quot;Parent&quot; presentations so that a number of &quot;Child&quot; presentations can quickly be made with different attributes in those placeholders. </p>
+<p>For example, this admin has created placeholders for Sales Rep Name and Date. </p>
+<p><img src="img/admin-sitesettings-presentationsettings2.png" alt="Presentations settings - data fields" /></p>
+<p>Now, a user can upload a deck with text boxes with these fields, typed exactly the same way, enclosed in brackets. </p>
+<p><img src="img/admin-sitesettings-presentationsettings3.png" alt="Using data fields" /></p>
+<p>Then, when the user creates a new deck and saves, they have the option to enter text to be displayed in the placeholder field. </p>
+<p><img src="img/admin-sitesettings-presentationsettings-savedatafields.png" alt="Saving a deck with data fields" /></p>
+<p>The newly saved deck has the placeholders filled in. The deck with the placeholders is still in the slide tray. Click &quot;Save&quot; again to save with a different date and name. </p>
+<p><img src="img/admin-sitesettings-presentationsettings4.png" alt="Saving a deck with data fields" /></p>
+<h4 id="mandatory-slides"><a class="header" href="#mandatory-slides">Mandatory slides</a></h4>
+<p>The last option in this section is to include mandatory slides. These might be a specially created title page or a section of compliance text that must be in every deck. </p>
+<p><img src="img/admin-sitesettings-presentationsettings-mandatory.png" alt="Mandatory slides" /></p>
+<p>For example, when a disclaimer slide is added here, it will show at the end of every saved deck; it will always be in the slide tray, and cannot be deleted or moved away from being the last slide. </p>
+<p><img src="img/admin-sitesettings-presentationsettings-mandatory2.png" alt="Mandatory slide in saved deck and slide tray" /></p>
+<h3 id="user-defaults"><a class="header" href="#user-defaults">User Defaults</a></h3>
+<p>This section allows the admin to configure the default notifications for all users. Users can also control these settings in their personal profile.</p>
 
                     </main>
 

@@ -1,12 +1,22 @@
 # Editing
 
-## Why Edit a presentation? 
+## Why Edit a presentation in Shufflrr's interface? 
 
-Editing isn't necessary for some use cases in a Presentation Management System. 
+Editing is only necessary for certain use cases in a Presentation Management System. 
 
-Sometimes, people just want the parent slides created by the SMEs, arranged into child decks that suit specific purposes. 
+Sometimes, people just want to use slides created by the SMEs, to be arranged into "child" decks that suit specific purposes. In that case no editing needed. 
 
-Other times, aspects of a child deck need to be edited. Perhaps an agenda or title needs to be added or updated, or additional content added for a special case. In these cases, editing is needed. 
+Other times, people want to very heavily change a presentation or add animations and charts; in that case, downloading the deck to edit in PowerPoint or Slides might be a better option. Just be sure to save it back into Shufflrr *with the same name*, otherwise parent-child relationships will break. 
+
+*The time to use editing in Shufflrr* is: 
+* When you need to customize. For example: 
+	* an image of the city where you are presenting
+	* the date or presenter name on the title slide
+* When you need to make a quick fix (a typo or other mistake)
+
+>**Pro Tip!**
+> 
+>If you download a deck to edit in PowerPoint, ***UPLOAD IT WITH THE SAME NAME.*** This avoids breaking the parent-child relationship. 
 
 ## Steps
 
