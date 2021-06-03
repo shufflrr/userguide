@@ -217,6 +217,106 @@
                 <div id="content" class="content">
                     <main>
                         <h1 id="workflows"><a class="header" href="#workflows">Workflows</a></h1>
+<h2 id="why-use-workflows"><a class="header" href="#why-use-workflows">Why use workflows?</a></h2>
+<p>Use workflows to pass files from - for example - creator to compliance to presenter. Define the flows needed by your organization!</p>
+<h2 id="steps"><a class="header" href="#steps">Steps</a></h2>
+<h3 id="planning-your-workflow"><a class="header" href="#planning-your-workflow">Planning your workflow</a></h3>
+<p>First, define your workflow. </p>
+<ul>
+<li>Who needs to take steps with this file? 
+<ul>
+<li>Creator</li>
+<li>Approver</li>
+<li>Compliance</li>
+<li>Designer</li>
+<li>Sales/Marketing</li>
+</ul>
+</li>
+<li>What do they need to do? 
+<ul>
+<li>Create</li>
+<li>Edit</li>
+<li>Approve</li>
+<li>Distribute or present</li>
+</ul>
+</li>
+<li>Where should the file go when they have finished their task and it's ready for the next stage? </li>
+</ul>
+<p>Plan ahead for any type of flow. For example, perhaps there are three steps to your workflow: create, approve, present. </p>
+<p>But maybe there are more steps. Maybe a file will go through several rounds of editing between colleagues, then to compliance, then back for more editing, then to design, then back for more editing and to compliance again before it is approved for distribution.</p>
+<blockquote>
+<p><strong>Pro Tip!</strong></p>
+<p>The more complex the workflow, the more planning it needs to understand and predict all the different paths the file might take through the flow. </p>
+</blockquote>
+<h3 id="creating-your-workflow-in-shufflrr"><a class="header" href="#creating-your-workflow-in-shufflrr">Creating your workflow in Shufflrr</a></h3>
+<p>Click the &quot;Admin&quot; icon and go to the &quot;Tags&quot; tab. Click &quot;Add Tag.&quot;</p>
+<p><img src="img/admin-tags-workflows-getting-there.png" alt="Getting to the workflows" /></p>
+<p>Select &quot;Workflow&quot; as the tag type and enter the names of the workflow stages in the open box. Enter each name on a separate line. </p>
+<p><img src="img/admin-tags-workflows-1.png" alt="Entering names of workflow stages" /></p>
+<p>For each entry, more fields will appear below so you can fill them in. For each one, you will need to choose</p>
+<ol>
+<li>What happens when that stage is assigned - where does the file move to? </li>
+<li>What individuals or groups are notified when the file moves to this stage? </li>
+<li>Is a color assigned? The colors show up in the file list at left (see below)</li>
+</ol>
+<h4 id="sample-simple-workflow"><a class="header" href="#sample-simple-workflow">Sample simple workflow</a></h4>
+<p>In this sample workflow, there are three stages: </p>
+<ol>
+<li>Draft</li>
+<li>Compliance Review</li>
+<li>Approved</li>
+</ol>
+<p>The draft stage is created like this: </p>
+<p><img src="img/admin-tags-workflows-stage1.png" alt="Sample simple workflow draft stage" /></p>
+<p>Notice that it says the file goes to the &quot;originating folder&quot; at this stage. </p>
+<p>What this means is, if it moves to other folders in different stages, when someone puts it BACK in &quot;Draft&quot; stage, <em>it will RETURN to whichever folder it started in</em>.</p>
+<p>Notice the red color assigned. That looks like this in the file list: </p>
+<p><img src="img/admin-tags-workflows-indicator.png" alt="Red indicator in file list" /></p>
+<p>The second stage is &quot;Compliance Review.&quot; For this stage, we want the file to automatically move to the &quot;Compliance&quot; folder and alert the Compliance team that there is a file ready for their review. </p>
+<p>First we select the Compliance folder: </p>
+<p><img src="img/admin-tags-workflows-stage2.png" alt="Selecting the Compliance folder" /></p>
+<p>Then we add that the Compliance team should be notified, and keep the Red indicator because the file is not yet approved: </p>
+<p><img src="img/admin-tags-workflows-stage2-2.png" alt="Finishing the Compliance stage" /></p>
+<blockquote>
+<p><strong>Pro Tip!</strong></p>
+<p>To set up groups to be notified, see the <a href="admin-groups.html">Groups Page</a>.</p>
+</blockquote>
+<p>For the final stage, the Compliance team will set the workflow tag to &quot;Approved&quot; (more on how they will do this <a href="#moving-a-file-to-a-different-workflow-stage">below</a>).</p>
+<p>At that time the presentation will move to the Marketing folder and will get a green &quot;Approved&quot; indicator in the file list.</p>
+<p><img src="img/admin-tags-workflows-stage3.png" alt="Approved stage" /></p>
+<blockquote>
+<p><strong>Pro Tip!</strong></p>
+<p>To prevent further modification of approved files, set the folder permissions to &quot;View Only.&quot; See also <a href="presentations-permissions.html#b-give-groups-permissions">Granting Permissions</a>.</p>
+</blockquote>
+<h3 id="using-workflows-in-shufflrr"><a class="header" href="#using-workflows-in-shufflrr">Using Workflows in Shufflrr</a></h3>
+<h4 id="setting-a-workflow-stage-when-saving-a-file"><a class="header" href="#setting-a-workflow-stage-when-saving-a-file">Setting a workflow stage when saving a file</a></h4>
+<p>When saving a file, you can check the box for the workflow you want, and slide the slider to the correct stage. </p>
+<p><img src="img/admin-tags-workflows-usingthem.png" alt="Using workflows when saving" /></p>
+<h4 id="moving-a-file-to-a-different-workflow-stage"><a class="header" href="#moving-a-file-to-a-different-workflow-stage">Moving a file to a different workflow stage</a></h4>
+<p>When you are ready to change the workflow stage, for example, to send it to compliance for review, do the following steps: </p>
+<ol>
+<li>Click the file you want to update</li>
+<li>Click the &quot;files&quot; slider at the top of the screen</li>
+<li>Scroll down in the editing window and open the &quot;Workflow&quot; section</li>
+<li>Move the slider to the correct stage</li>
+<li>Click &quot;Update Tags&quot; at lower right. </li>
+</ol>
+<p><img src="img/admin-tags-workflows-updatingtags.png" alt="Changing the workflow stage" /></p>
+<p>Note: <em><strong>IF</strong></em> this deck is a parent of children, then, at this point you will be prompted to indicate whether the child slides from this deck should also be updated with the new workflow status. Select whether to Ignore (don't update the child slides) or Accept (do update child slides) and click &quot;Submit&quot;. For more information see <a href="presentations-version-control.html">Parent-Child Updating</a>.</p>
+<p><img src="img/admin-tags-workflows-updatingtags-2.png" alt="Updating children after changing workflow stage" /></p>
+<h4 id="adding-comments-when-moving-a-file-to-a-different-workflow-stage"><a class="header" href="#adding-comments-when-moving-a-file-to-a-different-workflow-stage">Adding comments when moving a file to a different workflow stage</a></h4>
+<p>This works the same way as above, except that before saving, you also need to open the &quot;Audit History&quot; and enter comments. Then click either green button to save. </p>
+<ol>
+<li>Click the file you want to update. </li>
+<li>Click the &quot;files&quot; slider at the top of the screen</li>
+<li>Scroll down in the editing window and open the &quot;Audit History&quot; section</li>
+<li>Enter comments</li>
+<li>Move the slider to the correct stage</li>
+<li>Click &quot;Update tags&quot; at lower right. </li>
+</ol>
+<p><img src="img/admin-tags-workflows-updatingtags-comments.png" alt="Adding comments when moving a file to a different workflow stage" /></p>
+<p>Notice that it has moved to the Marketing folder and the indicator is green, per what was specified. </p>
+<p><img src="img/admin-tags-workflows-stage3-indicator.png" alt="Approved indicator" /></p>
 
                     </main>
 
