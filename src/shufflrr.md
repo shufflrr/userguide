@@ -1,17 +1,9 @@
 # Getting started
 
 > **Getting started in Shufflrr is a three-step process:** 
-> ### 1. [Upload](#1-upload)<br>
-> <ol type="a"><li><a href="#fileprocessing">File processing</a></ol>
-> <h3> 2. <a href="#2-organize">Organize</a></h3>
-> <ol type="a"><li><a href="#branding">Branding</a>
-> <li><a href="#creating">Creating</a> 
-> <li><a href="#search">Searching</a></ol>
-> <h3> 3. <a href="#3-publish">Publish</a> </h3>
-> <ol type="a"><li><a href="#users">Users</a>
-> <li><a href="#groups">Groups</a>
-> <li><a href="#permissions">Permissions</a>
-> </ol>
+> #### 1. [Upload](#1-upload)
+> #### 2. [Organize](#2-organize)
+> #### 3. [Publish](#3-publish)
 
 ## 1. Upload
 
@@ -19,15 +11,21 @@ A good way to begin your corporate story is with your most recent 25 presentatio
 Why 25 files?  We like to start with 25 files because it is a good, manageable number to start with. Furthermore, the most recent presentations usually have the latest and greatest imagery, branding and messaging. So, it’s a good place to start. 
 
 Collect your best:
-* videos
-* images and logos
+* PowerPoints
+* Videos
+* Images and logos
 * PDFs 
-* case studies
+* Case studies
+
+>**File types supported**:**
+> 
+>  .pptx, .ppsx, .docx, .pdf .xlsx, .jpg, .png, .bmp, .gif, .mp4, .avi, .wmv, .mov. Other file types (if they are not a security risk, such as .exe) can be stored, such as .psd or .ai, but not scanned for search or used in presentations.
 
 Click the "Upload" icon in the top navigation to upload files and folders into Shufflrr. 
 
 ![Uploading](img/shufflrr-upload.png)
 
+#### File Processing 
 <a name="fileprocessing"></a>
 
 File processing takes a few minutes when a file is added or saved. Here's how to track that: 
@@ -37,6 +35,8 @@ File processing takes a few minutes when a file is added or saved. Here's how to
 
 * Click that icon to see the status of your files. 
 * Each file goes through two processes: the initial upload and the animation/editing preparation. Those will show on separate lines. 
+	* *The first process is to prepare the slides for search. To do this, we create thumbnails and process all text so it is searchable. (After all, if you can’t find it, or see it, then you’re not going to use it!)* 
+	* *The second process is to convert your slide to HTML5 so you can see the animations and edit the slides in Shufflrr.*
 
 ![Uploading queue tray](img/presentations-upload-queuetray.png)    
     
@@ -79,7 +79,7 @@ To set up your Shufflrr site to reflect your company's branding, click the "Admi
 
 ### Branding
 
-Now that your content is uploaded and sorted into folders, set the corporate brand identity before going further. This can be done by an administrator in "Brand Central."
+Now that your content is uploaded and sorted into folders, set the corporate brand identity - your fonts and colors. This can be done by an administrator in "Brand Central."
 
 Click the "Admin" icon and the "Brand Central" tab. The first three tabs are essentially empty when first opened. 
 
@@ -87,7 +87,7 @@ Click the "Admin" icon and the "Brand Central" tab. The first three tabs are ess
 
 #### Colors
 
-If you uncheck the box for all colors, you get 141 pre-set colors. Click "remove preset colors" to remove them so you can add your corporate branding.
+If you uncheck the box for all colors, you get 141 pre-set colors. Click "remove preset colors" to remove them so you can limit your colors to only those in your brand identity. 
 
 ![Remove preset colors](img/admin-brandcentral-colors-1.png)
 
@@ -102,13 +102,13 @@ Once you have your brand colors entered, they will appear to the right.
 
 #### Fonts
 
-To select ***system fonts*** (such as Arial, Tahoma, Trebuchet, etc.) as your corporate fonts, just click "System Fonts," then unclick any fonts you do not wish users to incorporate in their presentations. 
+To select ***system fonts*** (commonly used fonts such as Arial, Tahoma, Trebuchet, etc.) as your corporate fonts, just click "System Fonts.” All fonts are available by default. If you don’t want a specific font, uncheck the box. Checked fonts are available; unchecked boxes are not.   
 
 ![Selecting system fonts for branding](img/admin-brandcentral-fonts-1.png)
 
-To ***upload your own fonts***, use a true type font (.ttf) file. 
+You can also ***upload your own fonts***. Shufflrr supports any TrueType fonts (.ttf files). 
 
-For example, to use a google font, go to the page for that font and click "download font family." 
+For example, if you’re using a Google font, get the TrueType file (.ttf) for that font. You can do this by going to the page for that font and clicking "download font family." 
 
 ![Downloading a google font](img/admin-brandcentral-fonts-google.png)
 
@@ -175,7 +175,7 @@ Perform more searches to get more slides.
 
 ## 3. Publish
 
-Once your content is organized, it's time to publish to your full user group so that the whole company can use the curated material appropriately to inform, connect, and sell.
+Once your content is organized, it's time to publish to your users and or groups, so that everyone can use the library of curated slides to build custom presentations for their own purposes.
 
 Publishing has three steps: adding users to the system, adding users to groups, and giving groups permissions to folders. 
 

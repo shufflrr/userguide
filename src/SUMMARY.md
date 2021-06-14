@@ -3,7 +3,6 @@
 - [Getting Started in Shufflrr](shufflrr.md)
 - [General]()
     - [Search](shufflrr-search.md)
-    - [Advanced Search](shufflrr-advanced-search.md)
     - [Slide Tray](shufflrr-slide-tray.md)
     - [Top Navigation](shufflrr-account-nav.md)
 - [Presentations](presentations.md)
