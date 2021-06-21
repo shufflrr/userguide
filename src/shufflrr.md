@@ -17,7 +17,7 @@ Collect your best:
 * PDFs 
 * Case studies
 
->**File types supported**:**
+>**File types supported:**
 > 
 >  .pptx, .ppsx, .docx, .pdf .xlsx, .jpg, .png, .bmp, .gif, .mp4, .avi, .wmv, .mov. Other file types (if they are not a security risk, such as .exe) can be stored, such as .psd or .ai, but not scanned for search or used in presentations.
 
@@ -125,10 +125,6 @@ Select the .ttf file from inside the folder that you extracted from the Google d
 Last step - IMPORTANT! Check the box to make this font available. 
 
 ![Check the box to make the font available](img/admin-brandcentral-fonts-4.png) 
-
-The last tab contains 20 email templates. You can modify the text and/or styling according to your wishes. 
-
-![Email templates tab](img/admin-brand-central-email.png)
 
 ### Creating
 

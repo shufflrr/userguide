@@ -27,13 +27,13 @@ Once you have your brand colors entered, they will appear to the right.
 
 #### Fonts
 
-To select ***system fonts*** (such as Arial, Tahoma, Trebuchet, etc.) as your corporate fonts, just click "System Fonts," then unclick any fonts you do not wish users to incorporate in their presentations. 
+To select ***system fonts*** (commonly used fonts such as Arial, Tahoma, Trebuchet, etc.) as your corporate fonts, just click "System Fonts.” All fonts are available by default. If you don’t want a specific font, uncheck the box. Checked fonts are available; unchecked boxes are not.   
 
 ![Selecting system fonts for branding](img/admin-brandcentral-fonts-1.png)
 
-To ***upload your own fonts***, use a true type font (.ttf) file. 
+You can also ***upload your own fonts***. Shufflrr supports any TrueType fonts (.ttf files). 
 
-For example, to use a google font, go to the page for that font and click "download font family." 
+For example, if you’re using a Google font, get the TrueType file (.ttf) for that font. You can do this by going to the page for that font and clicking "download font family." 
 
 ![Downloading a google font](img/admin-brandcentral-fonts-google.png)
 

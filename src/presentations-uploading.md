@@ -10,7 +10,12 @@
 ## Steps
 
 Once your folder structure is created, you can begin uploading the central library decks.
-* The better your content, the better your results! [Check here](start-onboarding.md#gettingcontent) for some tips on gathering great content for the slide library. 
+
+>**File types supported:**
+> 
+>  .pptx, .ppsx, .docx, .pdf .xlsx, .jpg, .png, .bmp, .gif, .mp4, .avi, .wmv, .mov. Other file types (if they are not a security risk, such as .exe) can be stored, such as .psd or .ai, but not scanned for search or used in presentations.
+
+
 * You can upload decks in different ways from different places
 	* From the home page, select the folder in the dropdown, then use one of the options to upload folders or individual files.
 
@@ -30,6 +35,8 @@ File processing takes a few minutes when a file is added or saved. Here's how to
 
 * Click that icon to see the status of your files. 
 * Each file goes through two processes: the initial upload and the animation/editing preparation. Those will show on separate lines. 
+	* *The first process is to prepare the slides for search. To do this, we create thumbnails and process all text so it is searchable. (After all, if you can’t find it, or see it, then you’re not going to use it!)* 
+	* *The second process is to convert your slide to HTML5 so you can see the animations and edit the slides in Shufflrr.*
 
 ![Uploading queue tray](img/presentations-upload-queuetray.png)    
     
@@ -38,6 +45,7 @@ File processing takes a few minutes when a file is added or saved. Here's how to
 * When slides are ready, a blue "Edit" button will appear. Click it to modify the slides.  
 
 ![Multi-step process](img/presentations-upload-multistep.png)
+
 
 > **Pro tip:** 
 >
