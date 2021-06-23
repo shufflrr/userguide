@@ -7,33 +7,40 @@
 
 ## Steps
 
-### (a) Set up groups 
+### Set up groups 
 
-* #### _Go to the groups tab & add a group_ 
 ![Creating a group](img/presentations-permissions-groups.png)
 
-* #### _Add people to your group_ 
-    * Once you have saved your group, you are automatically taken to the group settings 
-    * Check off the roles you would like for this group overall (not in reference to a folder yet). 
+* Once you have saved your group, you are automatically taken to the group settings 
+* Check off the roles you would like for this group overall (not in reference to a folder yet). 
+
 ![Adding roles to a group](img/presentations-permissions-grouproles.png)
 
-    * Click the "Add Users" tab and add users.
+#### Add people to your group 
+
+Select the user tab, search for users, and click "Add" to add specific people to the group. 
 ![Adding people to a group](img/presentations-permissions-groups-addusers.png)
 
-### (b) Give groups permissions 
-* Click the down-arrow on the right side of the folder name. Select "Permissions."
+### Give groups permissions 
+Click the down-arrow on the right side of the folder name. Select "Permissions."
 ![Giving permissions to a folder](img/presentations-permissions.png) 
-* In the first box, type the name of the group who should have permissions to this folder. 
+In the first box, type the name of the group who should have permissions to this folder. 
 ![Search for the group you want to give permissions to](img/presentations-permissions-modal.png)
 * <a name="readOnlyPermissionSetup"></a>Select View Only, Read, Write, or Full Control.
-	* _View Only_ means users can only view & present from this folder, but cannot copy, download, or change slides in this folder. 
-    * _Read_ means users can see slides from this folder, and pull slides from here to make new presentations, but cannot change slides in this folder. 
-    * _Write_  means users can edit the slides and presentations in this folder. 
-    * _Full Control_ means users can take any action on material in the folder, as well as updating permissions on the folder itself. 
-* For Read or Write, select whether this group can share presentations or not (Full Control always allows sharing; View Only never allows sharing). Sharing a presentation gives the user the ability to send it to anyone internal or external in a read-only, slide-show-viewer format. 
+	* _View Only_: 
+		* Users can ONLY VIEW & PRESENT from this folder. 
+	NO copying, downloading, or editing, or using this material in new presentations. 
+    * _Read_ means users can VIEW, PRESENT, and USE material in this folder in new presentations, but cannot EDIT slides in this folder. 
+    * _Write_  means users can VIEW, PRESENT, USE, and EDIT material in this folder. 
+    * _Full Control_ means users can take ANY ACTION on material in the folder, as well as updating permissions on the folder itself. 
+    
+* For Read or Write, select whether this group can SHARE presentations or not. 
+	* Full Control always allows sharing
+	* View Only never allows sharing
+* Sharing a presentation gives the user the ability to send it to anyone internal or external in a read-only, slide-show-viewer format. 
 ![Select read, write, and share as appropriate](img/presentations-permissions-modal2.png)
 
 
-> *Pro tip!*
+> **Pro tip!**
 > 
 > You can also grant permissions to an individual

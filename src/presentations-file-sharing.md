@@ -5,27 +5,28 @@
 * Provide information to sales prospects
 * Ask a colleague for their opinion
 
+> **Pro tip:**
+>
+> If you want to submit the file for approval, use [workflow tags](admin-tags-workflow.md), not shares! 
 
 ## Steps
 
-* There are many ways to share a deck. For one, click the down arrow next to the file name in the left navigation to see a share option.
+There are many ways to share a deck. For one, click the down arrow next to the file name in the left navigation to see a share option.
 
 ![How to share a presentation](img/presentations-howtoshare.png)
 
-* Double check the file name. 
-* Use the dropdown and "ADD" button if you want to share multiple files at once.  
+Use the dropdown and "ADD" button if you want to share multiple files at once.  
 
 ![File sharing popup](img/presentations-sharefilemodal1.png)
 
 * Enter the email addresses you want to share with & add a message. 
-* Select whether to allow downloads and whether to get alerts, & set an expiry if needed.
+* Select whether to allow downloads (and in what format)
+* Select whether to get alerts 
+* Set an expiry if needed
 
 ![File sharing popup, populated](img/presentations-sharefilemodal2.png)
 
-* The success popup will have a link you can click to see the share.
+The success popup will have a link you can click to see the share, or use icons at lower left to capture it in different formats.
 
 ![File sharing success popup](img/presentations-sharefilesuccess.png) 
 
-> **Pro tip:**
->
-> If you want to pass the file to someone for approval, use [workflow tags](admin-tags-workflow.md), not shares! 

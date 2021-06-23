@@ -5,6 +5,11 @@ The Slide Tray is the workbench. It is where the work in progress rests while it
 
 ## Steps
 
+Use the slide tray to build your new deck. It holds your work in progress as you move around gathering more materials for your deck. 
+
+![Slide tray holds work in progress](img/shufflrr-slide-tray2.png)
+
+
 The Slide Tray is on all screens all the time for most users. Only the Admin user's Reports and Admin tools pages do not display the Slide Tray.  
 
 ![Slide tray on multiple pages](img/general-slidetray.png)
