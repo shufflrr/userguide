@@ -1,6 +1,6 @@
 # Reports: Shares
 
-## Why look at the Shares report? 
+## Why look at the "Shares" report? 
 
 Part of Presentation Management is reporting: tracking what works and what can be improved.
 
@@ -17,7 +17,7 @@ Click the "Reports" icon and the "Shares" tab.
 >**Pro tips!**
 >
 > * Go to <a href="https://ipinfo.io/" target="blank">IP Info</a> to identify the owner of the IP address in the last column.
-> * Clicking the "Accessed Date" column header to show the dates in ascending order displays the creation of the file first, before any accessing of the file, which helps understand timelines. 
+> * Click the "Accessed Date" column header to show the dates in ascending order. Shows file creation then file access - timelines are clearer. 
 
 ![Share report](img/reports-share.png)
 

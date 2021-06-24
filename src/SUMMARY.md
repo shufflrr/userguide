@@ -28,7 +28,7 @@
     - [Comments](reports-comments.md)
     - [Shares](reports-shares.md)
     - [Present Live™ Sessions](reports-present-live.md)
-- [Admin](admin.md)
+- [Admin]()
     - [Users](admin-users.md)
     - [Groups](admin-groups.md)
     - [Tags](admin-tags.md)

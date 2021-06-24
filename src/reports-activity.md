@@ -9,8 +9,7 @@ The activity report can tell you about:
 
 >**Pro tip!**
 >
-> Track the activity of your most successful sales and marketing people to identify best practices and train others! 
-
+> Identify activities of your most successful users and train others in best practices!
 ## Steps
 
 Click the "Reports" icon and the "Activity" tab.

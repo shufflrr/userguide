@@ -18,7 +18,7 @@ Click the "Reports" icon and the "Slide" tab.
 
 >**Pro tip!**
 > 
-> Some of the most useful columns in the Slide report are on the right - scroll to see whether the new slide is generating collaboration (in the form of likes and comments), and whether it's being seen and used. 
+> Some of the most useful columns in the Slide report are on the right - scroll to see whether the new slide is being seen and used. 
 
 ![Reports - slide tab - focusing in on useful columns](img/reports-slide-focus.png)
 

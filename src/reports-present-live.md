@@ -7,7 +7,7 @@
 
 ## Steps
 
-Click the "Reports" icon and the "PresentLive Sessions" tab
+Click the "Reports" icon and the "PresentLive™ Sessions" tab
 * View who presented, what they presented, and when
 * Use filters to find a specific user, deck, or session
 * Change the date range to view another time period

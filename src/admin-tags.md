@@ -45,13 +45,13 @@ These are the most commonly used tag options, because they represent a limited s
 
 ### Using Tags
 
-#### Uploading
+#### Adding tags while uploading
 
 When uploading, click "Advanced Options" and select tags that should apply to the presentation. If applicable, check to apply the tags to the individual slides, so that the tags will stay with them when they are used in different presentations. 
 
 ![Using tags when uploading](img/admin-tags-usingwhileuploading.png)
 
-#### User Default Tags
+#### User default tags
 
 To connect specific default tags to users, click "Admin" and go to the "Users" tab. Select a specific user and select the "Default Tags" tab. 
 

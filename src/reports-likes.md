@@ -1,13 +1,13 @@
 # Reports: Likes
-## Why use the Likes report?
+## Why use the "Likes" report?
 
 Part of Presentation Management is reporting: tracking what works and what can be improved.
 
-The Likes tab tells you how people in your system are communicating with each other about their work. 
+The "Likes" tab tells you how people in your system are communicating with each other about their work. 
 
 >**Pro tip!**
 >
-> Encourage collaboration by providing positive feedback to users who are liking each other's work! 
+> Encourage users who are liking each other's work! Collaboration is key. 
 
 ## Steps
 

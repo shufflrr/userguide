@@ -1,9 +1,10 @@
-# Add permissions on folders
+# Folder Permissions
 
 ## Why set permissions on folders? 
 * Maintain confidentiality: Only people who should see this content can see it.
 * Maintain content integrity: Those who should not edit this content won't be able to do so. 
-* Simplify searching: If users only have permissions to see into a few folders, their searches won't be cluttered with hundreds (or thousands!) of files irrelevant to them. 
+* Simplify searching: If users only have permissions to see into a few folders, their searches won't be cluttered with hundreds (or thousands!) of files irrelevant to them.
+* Presentation Management is structured storytelling. Permissions on folders create the structure to help people tell your story. 
 
 ## Steps
 
