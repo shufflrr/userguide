@@ -29,7 +29,7 @@ Once your folder structure is created, you can begin uploading the central libra
 ## File Processing
 
 File processing takes a few minutes when a file is added or saved. Here's how to track that: 
-* You will see arrows going in a circle at the top right of the screen with a little number showing the number of files being processed.
+* You will see arrows going in a circle at the top right of the screen with a little number showing the number of processes currently happening.
     
 ![Uploading queue icon](img/presentations-upload-queueicon.png)
 
