@@ -14,6 +14,7 @@
     - [Building Child Presentations](presentations-building.md)
     - [Parent-Child Updating](presentations-version-control.md)
     - [File Sharing](presentations-file-sharing.md)
+    - [File History](presentations-file-history.md)
     - [Files-Slides Toggle](presentations-files-slides-toggle.md)
     - [PresentLive™](presentations-present-live.md)
     - [Slide Linking](presentations-linking.md)
