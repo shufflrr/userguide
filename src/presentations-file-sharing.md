@@ -30,3 +30,5 @@ The success popup will have a link you can click to see the share, or use icons 
 
 ![File sharing success popup](img/presentations-sharefilesuccess.png) 
 
+You can see whether your past shares were opened or downloaded as well as take action on past shares - see the [user profile shares tab](admin-users.md#Share-reporting) information. 
+

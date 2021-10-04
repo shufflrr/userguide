@@ -25,6 +25,8 @@ Click on a name in the left panel to see that specific user displayed on the rig
 
 ![Managing users in the User tab](img/admin-users-right-manage.png)
 
+#### Share reporting
+
 * Use the third tab to view and manage (expire or edit) the user's shares.
 
 ![Viewing user share activity in the User tab](img/admin-users-right-shares.png)
