@@ -8,6 +8,10 @@ Search is key to shuffling slides into new decks and using them on the fly - Pre
 * Find a presentation for editing. 
 * Find a slide that isn't in your pre-made deck during a PresentLive session. 
 
+<div class="player">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pvlJtZQjAYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Steps 
 Type a search term in the box at top left. 
 <img src="img/search-search.png">

@@ -49,6 +49,18 @@ body {
   background-repeat: no-repeat;
 }
 
+.player {
+  display: flex;
+  justify-content: center;
+  background-color: #efefef;
+  border-radius: 5px;
+  margin: 10px 0;
+}
+
+.player iframe {
+  border-radius: 5px;
+}
+
 #header-nav-wrapper {
   position: relative;
   background-color: var(--sidebar-bg);
