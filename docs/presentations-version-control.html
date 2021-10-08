@@ -208,6 +208,9 @@
 <p><strong>Pro tip!</strong></p>
 <p>Rejecting parent changes permanently breaks the link between parent and child slides. </p>
 </blockquote>
+<div class="player">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TqjmJp9oQbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <h2 id="steps"><a class="header" href="#steps">Steps</a></h2>
 <p>If the parent of one of your decks has been edited, an orange circle with an exclamation point will appear next to the name of the deck.
 <img src="img/presentations-acceptchanges.png" alt="Orange icon showing that there are changes" /></p>
@@ -246,6 +249,20 @@
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            var socket = new WebSocket("ws://localhost:3000/__livereload");
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
         <script type="text/javascript">
             window.playground_copyable = true;
         </script>

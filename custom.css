@@ -23,14 +23,14 @@ body {
 
 .page h1 > a {
   color: white !important;
-  background-color: #0088cc;
+  background-color: #203864;
   padding: 1rem 1.6rem;
   border-radius: 6px;
   margin-left: -1.6rem;
 }
 
 .page h2 > a, .page h3 > a, .page h4 > a {
-  color: #0088cc !important;
+  color: #203864 !important;
 }
 
 .page h2:not(:nth-child(2))::before {
@@ -52,13 +52,13 @@ body {
 .player {
   display: flex;
   justify-content: center;
-  background-color: #efefef;
-  border-radius: 5px;
-  margin: 10px 0;
+  background: linear-gradient(90deg, rgba(32,56,100,1) 0%, rgba(0,136,204,1) 100%);
+  border-radius: 10px;
 }
 
 .player iframe {
   border-radius: 5px;
+  margin: 10px 0;
 }
 
 #header-nav-wrapper {
@@ -101,7 +101,7 @@ body {
 }
 
 #header-nav-wrapper .menu-item:nth-child(4) {
-  background-color: #0088cc;
+  background-color: #203864;
   padding: 0.5rem 1.1rem;
   border-radius: 3px;
 }

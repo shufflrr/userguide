@@ -197,6 +197,9 @@
 <p><strong>Pro tip:</strong></p>
 <p>If you want to submit the file for approval, use <a href="admin-tags-workflow.html">workflow tags</a>, not shares! </p>
 </blockquote>
+<div class="player">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/996mJm9m9KQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <h2 id="steps"><a class="header" href="#steps">Steps</a></h2>
 <p>There are many ways to share a deck. For one, click the down arrow next to the file name in the left navigation to see a share option.</p>
 <p><img src="img/presentations-howtoshare.png" alt="How to share a presentation" /></p>
@@ -239,6 +242,20 @@
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            var socket = new WebSocket("ws://localhost:3000/__livereload");
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
         <script type="text/javascript">
             window.playground_copyable = true;
         </script>

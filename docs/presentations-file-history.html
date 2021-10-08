@@ -189,6 +189,9 @@
                         <h1 id="file-history"><a class="header" href="#file-history">File History</a></h1>
 <h2 id="why-use-file-history"><a class="header" href="#why-use-file-history">Why use file history?</a></h2>
 <p>Part of Shufflrr's Presentation Management System is the ability to return to an earlier version of a file, even after changes have been made. This allows for the remediation of mistakes, or, the resurrection of an alternate version of a presentation. </p>
+<div class="player">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qkJ9CfE4HJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <h2 id="steps"><a class="header" href="#steps">Steps</a></h2>
 <p>Click the clock reversal icon above the presentation window. </p>
 <p>The popup gives a list of past versions with the option to view or return to them. Scroll to see all versions. </p>
@@ -222,6 +225,20 @@
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            var socket = new WebSocket("ws://localhost:3000/__livereload");
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
         <script type="text/javascript">
             window.playground_copyable = true;
         </script>

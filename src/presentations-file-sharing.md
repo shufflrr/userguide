@@ -9,6 +9,10 @@
 >
 > If you want to submit the file for approval, use [workflow tags](admin-tags-workflow.md), not shares! 
 
+<div class="player">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/996mJm9m9KQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Steps
 
 There are many ways to share a deck. For one, click the down arrow next to the file name in the left navigation to see a share option.

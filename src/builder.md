@@ -6,6 +6,10 @@ Builders are used to quickly start multiple child presentations with a few key d
 
 Builders must be set up by administrators. 
 
+<div class="player">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4NS9FzJNSug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Steps
 
 To use a builder, click "Builder" in the top navigation and select the builder you wish to utilize. Enter the customizable text in the fields provided. 

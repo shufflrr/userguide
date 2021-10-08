@@ -18,6 +18,10 @@
 > 
 > Rejecting parent changes permanently breaks the link between parent and child slides. 
 
+<div class="player">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TqjmJp9oQbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Steps
 
 If the parent of one of your decks has been edited, an orange circle with an exclamation point will appear next to the name of the deck.
