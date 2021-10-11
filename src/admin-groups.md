@@ -8,6 +8,9 @@ Use this tab to:
 * Manage groups by adding and deleting users
 * Manage site-wide group roles 
 
+<div class="player">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jAvwPDwSxgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Steps 
 Click "Admin" and "Groups" to see the tab. 
