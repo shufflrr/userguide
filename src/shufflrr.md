@@ -5,6 +5,10 @@
 > #### 2. [Organize](#2-organize)
 > #### 3. [Publish](#3-publish)
 
+<div class="player">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GReJU6Myccs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## 1. Upload
 
 A good way to begin your corporate story is with your most recent 25 presentations.
