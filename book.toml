@@ -7,6 +7,8 @@ title = "Shufflrr How-To"
 description = "The premiere Presentation Management System"
 
 [output.html]
+theme = "light"
+default-theme = "light"
 additional-css = ["fonts.css", "custom.css"]
 git-repository-url = "https://github.com/shufflrr/userguide"
 git-repository-icon = "fa-github"
