@@ -2,7 +2,9 @@
 
 ## Why use workflows? 
 
-Use workflows to pass files from - for example - creator to compliance to presenter. Define the flows needed by your organization!
+Use workflows to pass files from - for example - creator to compliance to presenter. The admin is in charge of defining the flows needed by the organization. 
+
+Note: See [Using Workflows](presentations-workflows.md) to learn how users will interact with the completed workflows. 
 
 ## Steps
 
@@ -79,7 +81,7 @@ Then we add that the Compliance team should be notified, and keep the Red indica
 > 
 > To set up groups to be notified, see the [Groups Page](admin-groups.md).
 
-For the final stage, the Compliance team will set the workflow tag to "Approved" (more on how they will do this [below](#moving-a-file-to-a-different-workflow-stage)).
+For the final stage, the Compliance team will set the workflow tag to "Approved" (more on how they will do this can be found in [Using Workflows](presentations-workflows.md)).
 
 At that time the presentation will move to the Marketing folder and will get a green "Approved" indicator in the file list.
 
@@ -89,46 +91,7 @@ At that time the presentation will move to the Marketing folder and will get a g
 > 
 >To prevent further modification of approved files, set the folder permissions to "View Only." See also [Granting Permissions](presentations-permissions.md#b-give-groups-permissions).
 
-### Using Workflows in Shufflrr
 
-#### Setting a workflow stage when saving a file
-
-When saving a file, you can check the box for the workflow you want, and slide the slider to the correct stage. 
-
-![Using workflows when saving](img/admin-tags-workflows-usingthem.png)
-
-#### Moving a file to a different workflow stage
-
-When you are ready to change the workflow stage, for example, to send it to compliance for review, do the following steps: 
-
-1. Click the file you want to update
-2. Click the "files" slider at the top of the screen
-3. Scroll down in the editing window and open the "Workflow" section
-4. Move the slider to the correct stage
-5. Click "Update Tags" at lower right. 
-
-![Changing the workflow stage](img/admin-tags-workflows-updatingtags.png)
-
-Note: ***IF*** this deck is a parent of children, then, at this point you will be prompted to indicate whether the child slides from this deck should also be updated with the new workflow status. Select whether to Ignore (don't update the child slides) or Accept (do update child slides) and click "Submit". For more information see [Parent-Child Updating](presentations-version-control.md).
-
-![Updating children after changing workflow stage](img/admin-tags-workflows-updatingtags-2.png)
-
-#### Adding comments when moving a file to a different workflow stage
-
-This works the same way as above, except that before saving, you also need to open the "Audit History" and enter comments. Then click either green button to save. 
-
-1. Click the file you want to update. 
-2. Click the "files" slider at the top of the screen
-3. Scroll down in the editing window and open the "Audit History" section
-4. Enter comments
-5. Move the slider to the correct stage
-6. Click "Update tags" at lower right. 
-
-![Adding comments when moving a file to a different workflow stage](img/admin-tags-workflows-updatingtags-comments.png)
-
-Notice that it has moved to the Marketing folder and the indicator is green, per what was specified. 
-
-![Approved indicator](img/admin-tags-workflows-stage3-indicator.png)
 
 
 
