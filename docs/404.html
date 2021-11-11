@@ -12,7 +12,6 @@
         <meta name="theme-color" content="#ffffff" />
 
         <link rel="icon" href="favicon.svg">
-        <link rel="shortcut icon" href="favicon.png">
         <link rel="stylesheet" href="css/variables.css">
         <link rel="stylesheet" href="css/general.css">
         <link rel="stylesheet" href="css/chrome.css">
@@ -27,12 +26,33 @@
         <!-- Custom theme stylesheets -->
         <link rel="stylesheet" href="fonts.css">
         <link rel="stylesheet" href="custom.css">
+	<script type="text/javascript">
+	(function() { var didInit = false;
+	  function initMunchkin() {
+	    if(didInit === false) {
+	      didInit = true;
+	      Munchkin.init('741-NZD-949');
+	    }
+	  }
+	  var s = document.createElement('script');
+	  s.type = 'text/javascript';
+	  s.async = true;
+	  s.src = '//munchkin.marketo.net/munchkin.js';
+	  s.onreadystatechange = function() {
+	    if (this.readyState == 'complete' || this.readyState == 'loaded') {
+	      initMunchkin();
+	    }
+	  };
+	  s.onload = initMunchkin;
+	  document.getElementsByTagName('head')[0].appendChild(s);
+	  })();
+	</script>
     </head>
     <body>
         <!-- Provide site root to javascript -->
         <script type="text/javascript">
             var path_to_root = "";
-            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "light" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
@@ -84,6 +104,37 @@
 
         <div id="page-wrapper" class="page-wrapper">
 
+<header>  
+  <input id="reveal-menu" type="checkbox">
+  <div id="header-nav-wrapper">
+    <div class="header-nav">
+      <div class="header-nav-left">
+	<a href="/"><img class="logo" src="logo.svg"></a>
+	<span class="menu-separator"></span>
+	<span class="menu-item slogan">Presentation Management</span>
+      </div>
+      <label for="reveal-menu">
+	Menu
+	<i class="fa fa-bars" aria-hidden="true"></i>
+      </label>
+      <div class="header-nav-right">
+	<a class="menu-item" href="https://shufflrr.com"><i class="fa fa-home"></i>&nbsp;Home</a>
+	<a class="menu-item" href="https://shufflrr.com/pricing">Pricing</a>
+	<a class="menu-item" href="https://shufflrr.com/demo">Demo</a>
+	<a class="menu-item" href="https://login.shufflrr.com" target="_blank">Login</a>
+	<span class="menu-separator"></span>
+	<span class="social-icons">
+	  <a class="menu-item social-icon" href="https://linkedin.com/company/shufflrr" target="_blank"><i class="fa fa-linkedin"></i></a>
+	  <a class="menu-item social-icon" href="https://facebook.com/shufflrr"><i class="fa fa-facebook" target="_blank"></i></a>
+	  <a class="menu-item social-icon" href="https://twitter.com/shufflrr"><i class="fa fa-twitter" target="_blank"></i></a>
+	</span>
+	<label for="reveal-menu">
+	  <i class="menu-item fa fa-times"></i>
+	</label>
+      </div>
+    </div>
+  </div>
+</header>
             <div class="page">
                 <div id="menu-bar-hover-placeholder"></div>
                 <div id="menu-bar" class="menu-bar sticky bordered">
@@ -117,7 +168,7 @@
 
                 <div id="search-wrapper" class="hidden">
                     <form id="searchbar-outer" class="searchbar-outer">
-                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
                     </form>
                     <div id="searchresults-outer" class="searchresults-outer hidden">
                         <div id="searchresults-header" class="searchresults-header"></div>
