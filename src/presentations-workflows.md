@@ -4,6 +4,10 @@
 
 Use workflows to pass files from - for example - creator to compliance to presenter. The admin for your organization has defined the available workflows and will inform you as to how your work should pass from stage to stage. 
 
+<div class="player">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3ZScvX6ZvP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Setting a workflow stage when saving a file
 
 When saving a file, you can check the box for the workflow you want, and slide the slider to the correct stage. 
