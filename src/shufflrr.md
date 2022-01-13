@@ -23,7 +23,7 @@ Collect your best:
 
 >**File types supported:**
 > 
->  .pptx, .ppsx, .docx, .pdf .xlsx, .jpg, .png, .bmp, .gif, .mp4, .avi, .wmv, .mov. Other file types (if they are not a security risk, such as .exe) can be stored, such as .psd or .ai, but not scanned for search or used in presentations.
+>  .pptx, .ppsx, .docx, .pdf .xlsx, .jpg, .png, .bmp, .gif, .mp4, .avi, .wmv, .mov. Other file types (if they are not a security risk, such as .exe) can be stored, such as .psd or .ai, but not scanned for search or used in presentations. Some unsupported file formats, when used in presentations, will break the editing function. Using supported file formats is recommended. 
 
 Click the "Upload" icon in the top navigation to upload files and folders into Shufflrr. 
 

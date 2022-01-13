@@ -14,13 +14,15 @@ However, it is not yet perfect. And, there are some things you can do to facilit
 
 2. Limit the use of grouped objects, particularly grouped animations. <br><br>For non-animated objects, use a screenshot to make an image of the grouped objects, or, get them just how you want them and then ungroup them. For animations, create a video of the animations and embed it instead of the group. 
 
-3. Use screenshots to create and embed flat objects instead of uploading presentations that use PowerPoint features like: 
+3. Use screenshots to create and embed plain images instead of uploading presentations that use PowerPoint features like: 
 	- Gradients
 	- Shadows 
 	- Reduced opacity 
 	- SmartArt
 
 4. To edit complex features, download the presentation and upload it again WITH THE SAME NAME. PowerPoint is the premier content editing system; Shufflrr is the premier presentation management system. Uploading with the same name maintains Shufflrr's features such as [parent-child relationships](ppresentations-slide-inheritance.md). 
+
+5. Using unsupported file formats will break the editing feature. You can use these presentations but will not be able to edit them in Shufflrr. 
 
 
 
