@@ -1,15 +1,15 @@
 # Uploading
 
+<div class="player">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BiFdc1Ox_YI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Why upload material? 
 
 * Maintain a central library of all your corporate slides. 
 * Maintain centralized branding, messaging, accuracy, oversight, confidentiality, compliance. 
 * Use existing material to make new decks without duplication of effort. 
 * Uploading, organizing, and publishing enterprise assets are the key components of Presentation Management!
-
-<div class="player">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BiFdc1Ox_YI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 ## Steps
 

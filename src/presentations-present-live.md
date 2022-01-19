@@ -1,5 +1,9 @@
 # PresentLive™
 
+<div class="player">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/g2LYjL3JL48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Why use PresentLive™? 
 
 * Present to anyone anytime - better than Zoom.
@@ -9,10 +13,6 @@
 	* who was in attendance when
 	* what slides they saw
 	* what their comments were
-
-<div class="player">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/g2LYjL3JL48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 	
 ## Steps
 

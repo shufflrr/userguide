@@ -1,5 +1,9 @@
 # Parent-Child Updates
 
+<div class="player">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TqjmJp9oQbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Why propagate parent updates into child decks? 
 
 * Version Control (accepting/rejecting parent changes in child decks) is key to Presentation Management.
@@ -17,10 +21,6 @@
 >**Pro tip!**
 > 
 > Rejecting parent changes permanently breaks the link between parent and child slides. 
-
-<div class="player">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TqjmJp9oQbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 ## Steps
 

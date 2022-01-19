@@ -1,5 +1,9 @@
 # Admin: Users
-      
+
+<div class="player">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4x3Pa0taHS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>  
+ 
 ##  Why use the Users tab?
 
 Presentation Management only works if there are users sharing and shuffling content. 
@@ -12,9 +16,7 @@ Use this tab to:
 * Manage the groups and default tags for a user
 * See some of the user's activity (shares and likes)
 
-<div class="player">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4x3Pa0taHS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
 
 ## Steps 
 Click "Admin" and "Users" to see the tab. 

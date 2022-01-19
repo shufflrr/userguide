@@ -1,5 +1,9 @@
 # Building new presentations
 
+<div class="player">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mfMjJ4X_H7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Why build a new ("child") presentation from existing ("parent") presentations?
 
 * Updating "parent" presentations updates the "children," meaning that all "child" presentations stay consistent in 		
@@ -14,10 +18,6 @@
 > **Pro tip!** 
 >
 > Parent-child updates and saving time with existing material are two key features of Presentation Management! 
-
-<div class="player">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mfMjJ4X_H7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 ## Steps
 There are two ways to see existing slides that you might want to use in a new presentation. 

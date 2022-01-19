@@ -1,14 +1,14 @@
 # Builder
 
+<div class="player">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4NS9FzJNSug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Why use builders? 
 
 Builders are used to quickly start multiple child presentations with a few key details different, such as different sales rep names.
 
 Builders must be set up by administrators. 
-
-<div class="player">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4NS9FzJNSug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 ## Steps
 

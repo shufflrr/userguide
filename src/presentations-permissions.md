@@ -1,14 +1,14 @@
 # Folder Permissions
 
+<div class="player">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Y9DLddTgceY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Why set permissions on folders? 
 * Maintain confidentiality: Only people who should see this content can see it.
 * Maintain content integrity: Those who should not edit this content won't be able to do so. 
 * Simplify searching: If users only have permissions to see into a few folders, their searches won't be cluttered with hundreds (or thousands!) of files irrelevant to them.
 * Presentation Management is structured storytelling. Permissions on folders create the structure to help people tell your story. 
-
-<div class="player">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Y9DLddTgceY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 ## Steps
 

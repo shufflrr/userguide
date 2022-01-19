@@ -1,5 +1,9 @@
 # Editing
 
+<div class="player">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/m6E9H8q3W1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Why Edit a presentation in Shufflrr's interface? 
 
 Editing is only necessary for certain use cases in a Presentation Management System. 
@@ -17,10 +21,6 @@ Other times, people want to very heavily change a presentation or add animations
 >**Pro Tip!**
 > 
 >If you download a deck to edit in PowerPoint, ***UPLOAD IT WITH THE SAME NAME.*** This avoids breaking the parent-child relationship. 
-
-<div class="player">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/m6E9H8q3W1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 ## Steps
 

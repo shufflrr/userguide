@@ -1,5 +1,9 @@
 # File Sharing
 
+<div class="player">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/996mJm9m9KQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Why share a file? 
 * Provide information to clients 
 * Provide information to sales prospects
@@ -8,10 +12,6 @@
 > **Pro tip:**
 >
 > If you want to submit the file for approval, use [workflow tags](admin-tags-workflow.md), not shares! 
-
-<div class="player">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/996mJm9m9KQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 ## Steps
 
