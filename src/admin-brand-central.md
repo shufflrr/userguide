@@ -1,7 +1,7 @@
 # Brand Central
 
 <div class="player">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TkD2l2umnhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-8OC-KuHasY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Why use Brand Central? 
