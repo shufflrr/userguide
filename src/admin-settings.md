@@ -1,5 +1,9 @@
 # Settings
 
+<div class="player">
+<iframe width="560" height="315" src="https://youtu.be/covKPss9sgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Why use settings? 
 
 The settings tab allows the administrator to customize the company's Shufflrr site so that users get a corporate-branded experience with all of Shufflrr's capabilities configured to create exactly the site configuration that is appropriate for your needs. 
