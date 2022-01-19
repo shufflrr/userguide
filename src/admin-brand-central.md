@@ -1,5 +1,9 @@
 # Brand Central
 
+<div class="player">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TkD2l2umnhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Why use Brand Central? 
 
 When users create new content in Shufflrr, you want them to maintain your corporate identity by using corporate colors and fonts. Set these in "Brand Central" to ensure consistency and compliance. From this tab, you can also update the email templates that users receive. 

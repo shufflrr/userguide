@@ -1,5 +1,9 @@
 # Tags
 
+<div class="player">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TkD2l2umnhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Why use tags? 
 
 Users leverage tags in multiple different ways. Primarily, though, tags allow you to customize search.
