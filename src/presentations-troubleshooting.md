@@ -1,5 +1,57 @@
 # Troubleshooting
 
+1. [Font issues](#fontIssues)
+2. [Complex graphics](#complexGraphics)
+	- [Grouped animations](#groupedAnimations)
+	- [Other grouped objects](#groupedObjects)
+	- [Smart Art](#smartArt)
+	- [Gradients, shadows, and opacity](#gradients)
+3. [Unsupported file types](#unsupported)
+
+<a name="fontIssues"></a>
+### 1. Font issues
+If you are experiencing font issues, first make sure that your admin has enabled your desired font. 
+
+Check the [Admin > Brand Central > Fonts](admin-brand-central.md#fonts) page for more details. Frequently, font issues are caused by failing to do the last step: checking the box to make a font available. 
+
+![Check the box to make the font available](img/admin-brandcentral-fonts-4.png) 
+
+<a name="complexGraphics"></a>
+### 2. Complex graphics
+Extremely complex graphics, such as grouped animations or grouped Smart Art, may have trouble rendering correctly particularly in the editor. 
+
+For example, a map of the fifty United States as fifty separate objects grouped together with a single gradient and shadow across all of theme (instead of a gradient within each state) is an example of a graphic that did not render properly in Shufflrr.  
+
+<a name="groupedAnimations"></a>
+#### - Grouped Animations
+Grouped animations may fail. 
+
+**Suggestion**: Make a video of the animated objects and embed the video instead of the separate objects. 
+
+<a name="groupedObjects"></a>
+#### - Grouped Objects
+Grouped objects, particularly complex objects, may cause failures. 
+
+**Suggestion**: Use a screenshot to make an image of the grouped objects, or, get them just how you want them and then ungroup them. 
+
+<a name="smartArt"></a>
+#### - SmartArt
+Microsoft SmartArt may cause failures. 
+
+**Suggestion**: Use a screenshot to make an image of the SmartArt, and use the image. 
+
+<a name="gradients"></a>
+#### - Gradients, shadows, and opacity
+Complex gradients, shadows, and lowered opacity may cause failures.
+ 
+**Suggestion**: Use a screenshot to make a flat image, and use that in place of the manipulated images. 
+
+<a name="unsupported"></a>
+#### 3. Unsupported File Types
+.pptx, .ppsx, .docx, .pdf .xlsx, .jpg, .png, .bmp, .gif, .mp4, .avi, .wmv, .mov. Other file types (if they are not a security risk, such as .exe) can be stored, such as .psd or .ai, but not scanned for search or used in presentations. Some unsupported file formats, when used in presentations, will break the editing function. 
+ 
+**Suggestion**: Using supported file formats is recommended.  
+
 ## What is going on when presentations are processing? 
 When a slide or other material is processing, the following activities are in progress: 
 1. First, Shufflrr makes an image (thumbnail) of each slide, in several sizes. 
@@ -36,51 +88,5 @@ File processing takes a few minutes when a file is added or saved. Here's how to
 
 ![Multi-step process](img/presentations-upload-multistep.png)
 
-## Troubleshooting
-
-1. [Font issues](#fontIssues)
-2. [Complex graphics](#complexGraphics)
-	- [Grouped animations](#groupedAnimations)
-	- [Other grouped objects](#groupedObjects)
-	- [Smart Art](#smartArt)
-	- [Gradients, shadows, and opacity](#gradients)
-
-<a name="fontIssues"></a>
-### Font issues
-If you are experiencing font issues, first make sure that your admin has enabled your desired font. 
-
-Check the [Admin > Brand Central > Fonts](admin-brand-central.md#fonts) page for more details. Frequently, font issues are caused by failing to do the last step: checking the box to make a font available. 
-
-![Check the box to make the font available](img/admin-brandcentral-fonts-4.png) 
-
-<a name="complexGraphics"></a>
-### Complex graphics
-Extremely complex graphics, such as grouped animations or grouped Smart Art, may have trouble rendering correctly particularly in the editor. 
-
-For example, a map of the fifty United States as fifty separate objects grouped together with a single gradient and shadow across all of theme (instead of a gradient within each state) is an example of a graphic that did not render properly in Shufflrr.  
-
-<a name="groupedAnimations"></a>
-#### Grouped Animations
-Grouped animations may fail. 
-
-**Suggestion**: Make a video of the animated objects and embed the video instead of the separate objects. 
-
-<a name="groupedObjects"></a>
-#### Grouped Objects
-Grouped objects, particularly complex objects, may cause failures. 
-
-**Suggestion**: Use a screenshot to make an image of the grouped objects, or, get them just how you want them and then ungroup them. 
-
-<a name="smartArt"></a>
-#### SmartArt
-Microsoft SmartArt may cause failures. 
-
-**Suggestion**: Use a screenshot to make an image of the SmartArt, and use the image. 
-
-<a name="gradients"></a>
-#### Gradients, shadows, and opacity
-Complex gradients, shadows, and lowered opacity may cause failures.
- 
-**Suggestion**: Use a screenshot to make a flat image, and use that in place of the manipulated images. 
 
 
