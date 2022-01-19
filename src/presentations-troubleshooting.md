@@ -2,10 +2,10 @@
 
 1. [Font issues](#fontIssues)
 2. [Complex graphics](#complexGraphics)
-	- [Grouped animations](#groupedAnimations)
-	- [Other grouped objects](#groupedObjects)
-	- [Smart Art](#smartArt)
-	- [Gradients, shadows, and opacity](#gradients)
+	* [Grouped animations](#groupedAnimations)
+	* [Other grouped objects](#groupedObjects)
+	* [Smart Art](#smartArt)
+	* [Gradients, shadows, and opacity](#gradients)
 3. [Unsupported file types](#unsupported)
 
 <a name="fontIssues"></a>
@@ -23,25 +23,25 @@ Extremely complex graphics, such as grouped animations or grouped Smart Art, may
 For example, a map of the fifty United States as fifty separate objects grouped together with a single gradient and shadow across all of theme (instead of a gradient within each state) is an example of a graphic that did not render properly in Shufflrr.  
 
 <a name="groupedAnimations"></a>
-#### - Grouped Animations
+#### &#183; Grouped Animations
 Grouped animations may fail. 
 
 **Suggestion**: Make a video of the animated objects and embed the video instead of the separate objects. 
 
 <a name="groupedObjects"></a>
-#### - Grouped Objects
+#### &#183; Grouped Objects
 Grouped objects, particularly complex objects, may cause failures. 
 
 **Suggestion**: Use a screenshot to make an image of the grouped objects, or, get them just how you want them and then ungroup them. 
 
 <a name="smartArt"></a>
-#### - SmartArt
+#### &#183; SmartArt
 Microsoft SmartArt may cause failures. 
 
 **Suggestion**: Use a screenshot to make an image of the SmartArt, and use the image. 
 
 <a name="gradients"></a>
-#### - Gradients, shadows, and opacity
+#### &#183; Gradients, shadows, and opacity
 Complex gradients, shadows, and lowered opacity may cause failures.
  
 **Suggestion**: Use a screenshot to make a flat image, and use that in place of the manipulated images. 
