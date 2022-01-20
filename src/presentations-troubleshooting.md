@@ -48,7 +48,9 @@ Complex gradients, shadows, and lowered opacity may cause failures.
 
 <a name="unsupported"></a>
 #### 3. Unsupported File Types
-Supported file types are: .pptx, .ppsx, .docx, .pdf .xlsx, .jpg, .png, .bmp, .gif, .mp4, .avi, .wmv, .mov. Other file types (if they are not a security risk, such as .exe) can be stored, such as .psd or .ai, but not scanned for search or used in presentations. Some unsupported file formats, when used in presentations, will break the editing function. 
+Supported file types are: *.pptx, .ppsx, .docx, .pdf .xlsx, .jpg, .png, .bmp, .gif, .mp4, .avi, .wmv, .mov*. Some additional file types can be stored but not used. If you need to store an unsupported file in Shufflrr so that people can access it, but it isn't uploading in the current file format, try zipping it into a .zip file and uploading that. 
+
+Some unsupported file formats, when used in presentations (such as TIFFs), will break the editing function. 
  
 **Suggestion**: Using supported file formats is recommended.  
 
