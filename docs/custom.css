@@ -23,14 +23,14 @@ body {
 
 .page h1 > a {
   color: white !important;
-  background-color: #203864;
+  background-color: #3D91D6;
   padding: 1rem 1.6rem;
   border-radius: 6px;
   margin-left: -1.6rem;
 }
 
 .page h2 > a, .page h3 > a, .page h4 > a {
-  color: #203864 !important;
+  color: #3D91D6 !important;
 }
 
 .page h2:not(:nth-child(2))::before {
@@ -101,7 +101,7 @@ body {
 }
 
 #header-nav-wrapper .menu-item:nth-child(4) {
-  background-color: #203864;
+  background-color: #3D91D6;
   padding: 0.5rem 1.1rem;
   border-radius: 3px;
 }
