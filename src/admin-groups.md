@@ -54,22 +54,40 @@ Click the "Add Users" tab and add users.
 
 Here is a list of what each role allows users to do: 
 
-* ***Upload files:*** Group members can upload content to Shufflrr. 
+#### ***1. Upload files*** 
+Group members can upload content to Shufflrr. 
 Note: They will only be allowed to upload content to folders where they have Write or Full Control permissions.  
-* ***Create Presentations:*** Group members can drag and drop slides and files to create their own presentation from existing files.
-* ***Edit, Lock/Unlock Slides:*** Group members can unlock a slide, edit it, and lock it again. Those without this privilege can only use existing slides, except in a few cases (such as builders, where a few editable words might be included on a presentation).
-* ***Manage Users:*** Group members have ability to 
+
+#### ***2. Create Presentations***<br> 
+Group members can drag and drop slides and files to create their own presentation from existing files.
+
+#### ***3. Edit, Lock/Unlock Slides*** <br>
+Group members can unlock a slide, edit it, and lock it again. Those without this privilege can only use existing slides, except in a few cases (such as builders, where a few editable words might be included on a presentation).
+
+#### ***4. Manage Users*** 
+Group members have ability to 
 	* Add and remove users from Shufflrr
 	* Create and delete Groups
 	* Grant the type of roles we are discussing here
 	* Edit any user's profile
 	* Set up mandatory tags for a user
-* ***Manage Billing:*** Group members can update the company's Shufflrr plan or change the billing card. 
-* ***View Reports:*** Group members can access Shufflrr’s Reporting module, where they can then configure and download their custom reports
-* ***Create and Edit Builders:*** Builders are Presentation Wizards where content is locked down. Users of builders can select topic(s) to be included and the presentation will be created for them.  It restricts the free-form drag-and-drop presentation creation flexibility. Read more about builders [here](admin-builders.md).  
-* ***Site Administrator:*** Site Administrators have access to the Settings module, which is where you can make universal changes to the branding of your company's Shufflrr site, as well as several technical settings. 
-* ***External File Sharing:*** Group members can share files outside of Shufflrr. Disable this if you want to be sure material is kept confidential within your company. The disadvantage is that if a coworker is not a Shufflrr user, they also will not be able to receive a share. 
-* ***Create Root Folder:*** Turning this off prevents users from cluttering the company's site with  folders at the highest level. 
-* ***Access All Users:*** Group members with this permission enabled can search for and include any user in their permissions, tags, etc. 
-* ***Download:*** Determine what kind of files Group members are allowed to download.  You can limit Group members' ability to edit files by only allowing them to download a PPSX file, (which is a PowerPoint slide show) or a PDF file, or deny download all together.  If you would like to allow your Group to edit their presentations, then select PPTX.
+
+#### ***5.Manage Billing*** 
+Group members can update the company's Shufflrr plan or change the billing card. 
+
+#### ***6. View Reports*** 
+Group members can access Shufflrr’s Reporting module, where they can then configure and download their custom reports
+
+#### ***7. Create and Edit Builders*** 
+Builders are Presentation Wizards where content is locked down. Users of builders can select topic(s) to be included and the presentation will be created for them.  It restricts the free-form drag-and-drop presentation creation flexibility. Read more about builders [here](admin-builders.md).  
+#### ***8. Site Administrator*** 
+Site Administrators have access to the Settings module, which is where you can make universal changes to the branding of your company's Shufflrr site, as well as several technical settings. 
+#### ***9. External File Sharing*** 
+Group members can share files outside of Shufflrr. Disable this if you want to be sure material is kept confidential within your company. The disadvantage is that if a coworker is not a Shufflrr user, they also will not be able to receive a share. 
+#### ***10. Create Root Folder*** 
+Turning this off prevents users from cluttering the company's site with  folders at the highest level. 
+#### ***11. Access All Users*** 
+Group members with this permission enabled can search for and include any user in their permissions, tags, etc. 
+#### ***12. Download*** 
+Determine what kind of files Group members are allowed to download.  You can limit Group members' ability to edit files by only allowing them to download a PPSX file, (which is a PowerPoint slide show) or a PDF file, or deny download all together.  If you would like to allow your Group to edit their presentations, then select PPTX.
 
