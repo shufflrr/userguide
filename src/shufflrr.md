@@ -217,7 +217,7 @@ Click the "Add Users" tab and add users to your new group.
 ### Permissions
 You can use permissions to organize who can see what content, and who can use it, and use it in which ways. 
 
-To set up permissions, click the down-arrow on the right side of the folder name. Select "Permissions."
+To set up permissions, click the three dots at the right side of the folder name. Select "Permissions."
 
 ![Giving permissions to a folder](img/presentations-permissions.png) 
 
