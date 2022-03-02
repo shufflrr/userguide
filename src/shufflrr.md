@@ -52,7 +52,7 @@ File processing takes a few minutes when a file is added or saved. Here's how to
 
 > **Pro tip:** 
 >
-> Accidentally put the folder or file in the wrong place? Click the down arrow next to the file or folder name for the option to move it. Select the new parent folder. 
+> Accidentally put the folder or file in the wrong place? Click the three dots next to the file or folder name for the option to move it. Select the new parent folder. 
 
 ## 2. Organize
 
@@ -64,7 +64,7 @@ In Shufflrr,
 * Every presentation is a story
 * Every slide is a scene
 
-To create a folder, click the little down-arrow on the right side of the parent folder name. "Create Folder" is one of the options. The new folder will be inside this one.  
+To create a folder, click the three little dots on the right side of the parent folder name. "Create Folder" is one of the options. The new folder will be inside this one.  
 
 ![How to make a folder](img/upload-makefolder.png) 
 
@@ -85,7 +85,7 @@ To set up your Shufflrr site to reflect your company's branding, click the "Admi
 
 Now that your content is uploaded and sorted into folders, set the corporate brand identity - your fonts and colors. This can be done by an administrator in "Brand Central."
 
-Click the "Admin" icon and the "Brand Central" tab. The first three tabs are essentially empty when first opened. 
+Click the "Admin" icon and the "Brand Central" tab. The first two tabs are essentially empty when first opened. 
 
 ![Unpopulated Brand Central tabs](img/admin-brand-central-empty.png)
 
@@ -118,7 +118,7 @@ For example, if you’re using a Google font, get the TrueType file (.ttf) for t
 
 Double click on the .zip that downloads to extract it. Make sure you know where it is - you will need it in a minute!
 
-Then, in Shufflrr, click "Add Font"...
+Then, in Shufflrr, click "User Fonts" and then "Add Font."
 
 ![Adding a font](img/admin-brandcentral-fonts-2.png)
 
@@ -167,15 +167,13 @@ Open presentations you know have slides you need, and drag & drop them into your
 * If there are duplicates, this makes it easy to pick the best and most updated version. 
 * Add slides to your slide tray by clicking the green plus. 
 
-![Add slides from search](img/search-addslides.png)
-
 You can also use [advanced search](shufflrr-advanced-search.md) for more precise search options. 
 
 Perform more searches to get more slides. 
 
 ## 3. Publish
 
-Once your content is organized, it's time to publish to your users and or groups, so that everyone can use the library of curated slides to build custom presentations for their own purposes.
+Once your content is organized, it's time to publish to your users and/or groups, so that everyone can use the library of curated slides to build custom presentations for their own purposes.
 
 Publishing has three steps: adding users to the system, adding users to groups, and giving groups permissions to folders. 
 
@@ -193,7 +191,7 @@ When your Shufflrr site is first set up, there are five existing groups:
 * Reporting Users
 * User Administrators
 
-Each one has specific roles (capabilities) on your Shufflrr site. 
+Each one has specific roles (capabilities) on your Shufflrr site. [Learn more about roles](admin-groups.md#more-about-roles).
 
 ![Group roles](img/admin-users-roles.png)
 
@@ -212,7 +210,7 @@ Once you have saved your group, you are automatically taken to the group setting
 
 ![Adding roles to a group](img/presentations-permissions-grouproles.png)
 
-Click the "Add Users" tab and add users.
+Click the "Add Users" tab and add users to your new group.
 
 ![Adding people to a group](img/presentations-permissions-groups-addusers.png)
 
