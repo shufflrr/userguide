@@ -26,9 +26,9 @@ Collect your best:
 
 Click the "Upload" icon in the top navigation to upload files and folders into Shufflrr. 
 
-![Uploading](img/shufflrr-upload.png)
+![Screenshot-for-How-to-1](https://github.com/shufflrr/userguide/assets/143822521/594469ba-7bc5-4486-9caa-5e990128fef3)
 
-![Screenshot-for-How-to-1](https://github.com/shufflrr/userguide/assets/143822521/a4c4a484-a58f-4495-8d3c-6b1c83ac3920)
+
 
 <a name="fileprocessing"></a>
 
