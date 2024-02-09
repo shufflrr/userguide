@@ -28,6 +28,8 @@ Click the "Upload" icon in the top navigation to upload files and folders into S
 
 ![Uploading](img/shufflrr-upload.png)
 
+![Screenshot-for-How-to-1](https://github.com/shufflrr/userguide/assets/143822521/a4c4a484-a58f-4495-8d3c-6b1c83ac3920)
+
 <a name="fileprocessing"></a>
 
 File processing takes a few minutes when a file is added or saved. Here's how to track that: 
