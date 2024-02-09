@@ -24,7 +24,7 @@ Collect your best:
 * PDFs 
 * case studies
 
-Click the "Upload" icon in the top navigation to upload files and folders into Shufflrr. 
+Click the "Upload" icon in the top navigation to upload files into Shufflrr. 
 
 ![Screenshot-for-How-to-1](https://github.com/shufflrr/userguide/assets/143822521/594469ba-7bc5-4486-9caa-5e990128fef3)
 
