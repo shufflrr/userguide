@@ -37,6 +37,8 @@ File processing takes a few minutes when a file is added or saved. Here's how to
     
 ![Uploading queue icon](img/presentations-upload-queueicon.png)
 
+![how-to-screenshot-(2)-getting-started](https://github.com/shufflrr/userguide/assets/143822521/90482e25-8d4a-49c1-84f8-b493a447261c)
+
 * Click that icon to see the status of your files. 
 * Each file goes through two processes: the initial upload and the animation/editing preparation. Those will show on separate lines. 
 
