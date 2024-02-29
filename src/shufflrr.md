@@ -27,7 +27,7 @@ Collect your best:
 
 Click the "Upload" icon in the top navigation to upload files and folders into Shufflrr. 
 
-![Uploading](img/shufflrr-upload.png)
+![alt text](img/Screenshot-for-How-to-1.jpg)
 
 #### File Processing 
 <a name="fileprocessing"></a>

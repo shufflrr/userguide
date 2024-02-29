@@ -35,8 +35,6 @@ Click the "Upload" icon in the top navigation to upload files and folders into y
 File processing takes a few minutes when a file is added or saved. Here's how to track that: 
 * You will see arrows going in a circle at the top right of the screen with a little number showing the number of files being processed.
     
-![Uploading queue icon](img/presentations-upload-queueicon.png)
-
 ![how-to-screenshot-(2)-getting-started](https://github.com/shufflrr/userguide/assets/143822521/90482e25-8d4a-49c1-84f8-b493a447261c)
 
 * Click that icon to see the status of your files. 
