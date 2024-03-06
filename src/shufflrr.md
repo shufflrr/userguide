@@ -35,7 +35,7 @@ Click the "Upload" icon in the top navigation to upload files and folders into S
 File processing takes a few minutes when a file is added or saved. Here's how to track that: 
 * You will see arrows going in a circle at the top right of the screen with a little number showing the number of files being processed.
     
-![Uploading queue icon](img/github-screenshot2.png)
+![Uploading queue icon](img/Screenshot_upload_queue2)
 
 * Click that icon to see the status of your files. 
 * Each file goes through two processes: the initial upload and the animation/editing preparation. Those will show on separate lines. 
