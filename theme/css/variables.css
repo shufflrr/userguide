@@ -91,10 +91,10 @@
 }
 
 .light {
-    --bg:#000130;
+    --bg: hsl(0, 0%, 100%);
     --fg: hsl(0, 0%, 0%);
 
-    --sidebar-bg: #272b2e;
+    --sidebar-bg: #000130;
     --sidebar-fg: hsl(0, 0%, 100%);
     --sidebar-non-existant: #aaaaaa;
     --sidebar-active: #0088cc;
