@@ -42,7 +42,7 @@ File processing takes a few minutes when a file is added or saved. Here's how to
 	* *The first process is to prepare the slides for search. To do this, we create thumbnails and process all text so it is searchable. (After all, if you can’t find it, or see it, then you’re not going to use it!)* 
 	* *The second process is to convert your slide to HTML5 so you can see the animations and edit the slides in Shufflrr.*
 
-![Uploading queue tray](img/presentations-upload-queuetray.png)    
+![Uploading queue tray](img/presentations-upload-queuetray2.png)    
     
 * When the first process is finished, you will be able to see the deck in the left navigation and click on it. 
 * You will be able to move or delete slides at this point, but not edit slides until the second process has finished. 
