@@ -66,7 +66,7 @@ In Shufflrr,
 
 To create a folder, click the three little dots on the right side of the parent folder name. "Create Folder" is one of the options. The new folder will be inside this one.  
 
-![How to make a folder](img/upload-makefolder.png) 
+![How to make a folder](img/upload-makefolder2.png) 
 
 Pick your best materials and move them into the corresponding folders for your corporate story.
 
