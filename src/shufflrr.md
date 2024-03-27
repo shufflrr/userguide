@@ -48,7 +48,7 @@ File processing takes a few minutes when a file is added or saved. Here's how to
 * You will be able to move or delete slides at this point, but not edit slides until the second process has finished. 
 * When slides are ready, a blue "Edit" button will appear. Click it to modify the slides.  
 
-![Multi-step process](img/presentations-upload-multistep.png)
+![Multi-step process](img/presentations-upload-multistep2.png)
 
 > **Pro tip:** 
 >
