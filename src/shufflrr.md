@@ -6,7 +6,7 @@
 
 > **Getting started in Shufflrr is a three-step process:** 
 > #### 1. [Upload](#1-upload)
-> #### 2. [Organize](## 2. Organize)
+> #### 2. [Organize](#2-organize)
 > #### 3. [Publish](#3-publish)
 
 ## 1. Upload
@@ -79,7 +79,7 @@ For example:
 
 To set up your Shufflrr site to reflect your company's branding, click the "Admin" icon and the "Settings" tab. Here, you can set up the site with your company's logo and "favicon" (the little icon that appears in the browser tab for the site).
 
-![Your company's branding in Shufflrr](img/admin-sitesettings-logos2.png)
+![Your company's branding in Shufflrr](img/admin-sitesettings-logos.png)
 
 ### Branding
 
