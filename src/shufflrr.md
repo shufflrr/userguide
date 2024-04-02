@@ -54,7 +54,7 @@ File processing takes a few minutes when a file is added or saved. Here's how to
 >
 > Accidentally put the folder or file in the wrong place? Click the three dots next to the file or folder name for the option to move it. Select the new parent folder. 
 
-## 2. Organize <a name="Organize">
+<a name="Organize"></a>## 2. Organize
 
 Create a folder structure that works best for your corporate story.
  
