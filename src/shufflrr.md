@@ -38,15 +38,14 @@ File processing takes a few minutes when a file is added or saved. Here's how to
 ![Uploading queue icon](img/github-screenshot2.png)
 
 * Click that icon to see the status of your files. 
-* Each file goes through two processes: the initial upload and the animation/editing preparation. Those will show on separate lines. 
+* Each file goes through two processes: indexing & preview and animation/video preparation. Those will show on separate lines. 
 	* *The first process is to prepare the slides for search. To do this, we create thumbnails and process all text so it is searchable. (After all, if you can’t find it, or see it, then you’re not going to use it!)* 
 	* *The second process is to convert your slide to HTML5 so you can see the animations and edit the slides in Shufflrr.*
 
 ![Uploading queue tray](img/presentations-upload-queuetray2.png)    
     
-* When the first process is finished, you will be able to see the deck in the left navigation and click on it. 
-* You will be able to move or delete slides at this point, but not edit slides until the second process has finished. 
-* When slides are ready, a blue "Edit" button will appear. Click it to modify the slides.  
+* When indexing is finished, you will be able to preview the deck in the left navigation, find it in Search, add slides to SlideCart, and delete and move the deck. 
+* When animation/video preparation is finished and slides are ready, a blue "Edit" button will appear. Click it to modify the slides.  
 
 ![Multi-step process](img/presentations-upload-multistep2.png)
 
