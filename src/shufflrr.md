@@ -6,7 +6,7 @@
 
 > **Getting started in Shufflrr is a three-step process:** 
 > #### 1. [Upload](#1-Upload)
-> #### 2. [Organize](##-2.-Organize)
+> #### 2. [Organize](#2-Organize)
 > #### 3. [Publish](#3-publish)
 
 ## 1. Upload
@@ -54,7 +54,7 @@ File processing takes a few minutes when a file is added or saved. Here's how to
 >
 > Accidentally put the folder or file in the wrong place? Click the three dots next to the file or folder name for the option to move it. Select the new parent folder. 
 
-## 2. Organize
+## 2. Organize <a name="Organize">
 
 Create a folder structure that works best for your corporate story.
  
