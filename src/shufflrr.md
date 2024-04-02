@@ -5,7 +5,7 @@
 </div>
 
 > **Getting started in Shufflrr is a three-step process:** 
-> #### 1. [Upload](#1-upload)
+> #### 1. [Upload](##1.-Upload)
 > #### 2. [Organize](#2-organize)
 > #### 3. [Publish](#3-publish)
 
