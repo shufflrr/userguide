@@ -1,6 +1,7 @@
 # SUMMARY
 
 - [Getting Started in Shufflrr](shufflrr.md)
+- [How to use Shufflrr for Windows Plugin](powerpoint-plugin.md)
 - [General]()
     - [Search](shufflrr-search.md)
     - [Slide Tray](shufflrr-slide-tray.md)
