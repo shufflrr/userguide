@@ -18,6 +18,6 @@ Click the little down-arrow on the right side of the folder name. "Create Folder
 
 ![How to make a folder](img/upload-makefolder.png) 
 
-Once your folders are organized, you can begin [uploading content](presentations-upload.md).
+Once your folders are organized, you can begin [uploading content](presentations-uploading.md).
 
 
