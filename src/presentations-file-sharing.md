@@ -11,7 +11,7 @@
 
 > **Pro tip:**
 >
-> If you want to submit the file for approval, use [workflow tags](admin-tags-workflow.md), not shares! 
+> If you want to submit the file for approval, use [workflow tags](admin-workflow.md), not shares! 
 
 ## Steps
 
