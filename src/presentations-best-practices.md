@@ -20,7 +20,7 @@ However, it is not yet perfect. And, there are some things you can do to facilit
 	- Reduced opacity 
 	- SmartArt
 
-4. To edit complex features, download the presentation and upload it again WITH THE SAME NAME. PowerPoint is the premier content editing system; Shufflrr is the premier presentation management system. Uploading with the same name maintains Shufflrr's features such as [parent-child relationships](ppresentations-slide-inheritance.md). 
+4. To edit complex features, download the presentation and upload it again WITH THE SAME NAME. PowerPoint is the premier content editing system; Shufflrr is the premier presentation management system. Uploading with the same name maintains Shufflrr's features such as [parent-child relationships](presentations-slide-inheritance.md). 
 
 5. Using unsupported image formats will break the editing feature. You can use a presentation with an unsupported image format (such as a .tif) but you will not be able to edit them in Shufflrr. It's recommended that you keep to supported image formats: *.jpg, .png, .bmp,* and *.gif*.
 
