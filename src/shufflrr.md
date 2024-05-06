@@ -166,7 +166,7 @@ Open presentations you know have slides you need, and drag & drop them into your
 * If there are duplicates, this makes it easy to pick the best and most updated version. 
 * Add slides to your slide tray by clicking the green plus. 
 
-You can also use [advanced search](shufflrr-advanced-search.md) for more precise search options. 
+You can also use [advanced search](shufflrr-search.md) for more precise search options. 
 
 Perform more searches to get more slides. 
 
