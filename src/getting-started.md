@@ -139,7 +139,7 @@ Open presentations you know have slides you need, and drag & drop them into your
 
 ![Add slides from search](img/search-addslides.png)
 
-You can also use [advanced search](shufflrr-advanced-search.md) for more precise search options. 
+You can also use [advanced search](shufflrr-search.md) for more precise search options. 
 
 Perform more searches to get more slides. 
 
