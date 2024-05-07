@@ -7,7 +7,7 @@
 
 ## 1. Download on your PC
 
- Go to shufflrr.com>Product> Shufflrr for Windows PowerPoint Plugin. Type in your email into the form and click “Download Shufflrr for Windows” 
+Go to shufflrr.com>Product> Shufflrr for Windows PowerPoint Plugin. Type in your email into the form and click “Download Shufflrr for Windows” 
 You will receive an email with download instructions. Follow them. 
 
 
