@@ -1,7 +1,6 @@
 [book]
 authors = ["Virginia Ravenscroft", "Brian Carbone"]
 language = "en"
-multilingual = false
 src = "src"
 title = "Shufflrr How-To"
 description = "The premiere Presentation Management System"

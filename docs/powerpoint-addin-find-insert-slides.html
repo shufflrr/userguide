@@ -3,7 +3,7 @@
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>Builders - Shufflrr How-To</title>
+        <title>Insert slides and images with the Shufflrr Add-in - Shufflrr How-To</title>
 
 
         <!-- Custom HTML head -->
@@ -194,74 +194,54 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h1 id="builders"><a class="header" href="#builders">Builders</a></h1>
-<h2 id="why-use-builders"><a class="header" href="#why-use-builders">Why use Builders?</a></h2>
-<p>Builders are used when you want to <em>pre-define</em> a deck.</p>
+                        <h1 id="insert-slides-and-images-with-the-shufflrr-add-in"><a class="header" href="#insert-slides-and-images-with-the-shufflrr-add-in">Insert slides and images with the Shufflrr Add-in</a></h1>
+<p>You can find slides and images from your Shufflrr library and insert them into your PowerPoint presentation without leaving the Add-in. Use AI search or browse by folder and keyword.</p>
+<h2 id="how-to-find-a-slide"><a class="header" href="#how-to-find-a-slide">How to find a slide</a></h2>
+<p><strong>Option 1 — Shufflrr AI</strong></p>
+<ol>
+<li>In the Add-in, select the first tab, <strong>AI</strong> (Shufflrr AI).</li>
+<li>Describe the slide or content you need (e.g., "pricing table," "team org chart").</li>
+<li>Shufflrr returns files with slides and content matching your description.</li>
+<li>Click a file to open a preview, scroll through the slides, pick one, and insert it into your presentation.</li>
+</ol>
+<p><strong>Option 2 — Browse and search</strong></p>
+<ol>
+<li>Browse the <strong>folders and files</strong> in the Slide Library task pane.</li>
+<li>Use <strong>keyword search</strong> for files stored in Shufflrr Cloud to narrow results.</li>
+</ol>
+<h2 id="how-to-add-a-slide-to-your-presentation"><a class="header" href="#how-to-add-a-slide-to-your-presentation">How to add a slide to your presentation</a></h2>
+<ol>
+<li><strong>Click</strong> the file in the task pane — slide thumbnails open below.</li>
+<li><strong>Scroll</strong> through the thumbnails and click the slide you want. A <strong>blue border</strong> shows the selected slide.</li>
+<li>(Optional) To enlarge the preview, click the <strong>expand icon</strong> in the upper-right corner of the thumbnail.</li>
+<li>Click <strong>Insert</strong> (or <strong>&gt;&gt;</strong>) to insert the slide into your PowerPoint presentation.</li>
+</ol>
+<h2 id="how-to-add-an-image-to-your-presentation"><a class="header" href="#how-to-add-an-image-to-your-presentation">How to add an image to your presentation</a></h2>
+<p>Images are handled the same way as slides:</p>
+<ol>
+<li><strong>Click</strong> the file — thumbnails open below.</li>
+<li><strong>Scroll</strong> and select the image (or slide containing the image). A <strong>blue border</strong> indicates the selection.</li>
+<li>(Optional) Click the <strong>expand icon</strong> on the thumbnail for a larger preview.</li>
+<li>Click <strong>Insert</strong> (or <strong>&gt;&gt;</strong>) to insert it into your presentation.</li>
+</ol>
+<h2 id="video-in-the-add-in"><a class="header" href="#video-in-the-add-in">Video in the Add-in</a></h2>
+<p>Microsoft Office does not currently support video inside Add-ins. When Microsoft adds support, Shufflrr will make this feature available in the Add-in.</p>
+<h2 id="quick-tips"><a class="header" href="#quick-tips">Quick tips</a></h2>
 <ul>
-<li>Allow only a few customizable fields</li>
-<li>Disallow other editing</li>
+<li>Use the <strong>built-in AI search</strong> to find slides, decks, and related SharePoint files quickly.</li>
+<li><strong>Office 365 auto-saves</strong> your changes as you work.</li>
+<li>Keep <strong>file names identical</strong> when updating files so version tracking and auto-updates work correctly.</li>
 </ul>
-<p>You can also use builders to link sets of slides together to be incorporated into child decks as a unit - for example, product slides and their disclaimer text.</p>
-<p>For the user's perspective, <a href="builder.html">see the section for users of builders</a>.</p>
-<h2 id="steps"><a class="header" href="#steps">Steps</a></h2>
-<h3 id="1-create-a-deck-to-be-used-as-a-builder"><a class="header" href="#1-create-a-deck-to-be-used-as-a-builder">1. Create a deck to be used as a builder.</a></h3>
-<p>Anywhere you want a customizable field:</p>
-<ul>
-<li>Add a placeholder in brackets, such as, [name] or [date]</li>
-<li>The text box <em>cannot</em> be out of the PowerPoint template (a box that is on the slide when it is created - the box that says "Click to add text"); it must be <em>added by you</em>.</li>
-<li>The text can be formatted - it will keep the formatting.</li>
-</ul>
-<p><img src="img/admin-builders-nopredefinedtextboxes.png" alt="Don&#39;t use predefined text boxes" /></p>
-<p><img src="img/admin-builders-placeholders.png" alt="Placeholders" /></p>
-<h3 id="2-upload-the-deck-to-shufflrr"><a class="header" href="#2-upload-the-deck-to-shufflrr">2. Upload the deck to Shufflrr.</a></h3>
-<p>See the <a href="presentations-uploading.html">Uploading</a> page for more information.</p>
-<h3 id="3-create-a-new-template-builder-in-shufflrr"><a class="header" href="#3-create-a-new-template-builder-in-shufflrr">3. Create a new template (builder) in Shufflrr.</a></h3>
-<ul>
-<li>Enter the name.</li>
-<li>Add a looping video and a separate title slide, if desired</li>
-<li>Add the placeholder names
-<ul>
-<li>Important: they must EXACTLY match the deck</li>
-<li>Press a comma or space after each one to create the item</li>
-</ul>
-</li>
-<li>Add the deck you created in step 1 (be sure to click "Add"!)</li>
-<li>Be sure to give permissions</li>
-<li>Optional: limit the number of slides users can add
-<ul>
-<li>To prevent them from adding any, enter the number of slides in the Foundation deck, as shown here.</li>
-</ul>
-</li>
-</ul>
-<p><img src="img/admin-builders-build.png" alt="Create a new template" /></p>
-<ul>
-<li>Once you have added your first presentation to the template, you can always add additional presentations by clicking the "Add" button by the saved presentation.</li>
-<li>You can nest and add as many presentations as desired.</li>
-<li>They will each be an option for users to add to their final deck</li>
-<li>Users can customize and build precisely what is needed.</li>
-</ul>
-<p><img src="img/admin-builders-multiple-decks.png" alt="Add more presentations" /></p>
-<h3 id="4-what-the-user-sees"><a class="header" href="#4-what-the-user-sees">4. What the user sees</a></h3>
-<p>When the user selects the "Builder" tab and selects the template you have just created, they will see:</p>
-<ul>
-<li>Spaces for the placeholders to be filled in</li>
-<li>The option to choose any/all of the presentations you have added.</li>
-</ul>
-<p><img src="img/admin-builder-userview.png" alt="Builder template - user view" /></p>
-<p>When the user fills in the placeholders text, they will not be reflected in the preview or tray, but once they save the presentation, the placeholders will be replaced with the user's custom text.</p>
-<p><img src="img/admin-builder-userview2.png" alt="Builder template - user view, filled in" /></p>
-<p>Here is what the presentation looks like once saved:</p>
-<p><img src="img/admin-builder-result.png" alt="Builder-built presentation" /></p>
 
                     </main>
 
                     <nav class="nav-wrapper" aria-label="Page navigation">
                         <!-- Mobile navigation buttons -->
-                            <a rel="prev" href="admin-workflow.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                            <a rel="prev" href="powerpoint-addin-create-edit.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                                 <i class="fa fa-angle-left"></i>
                             </a>
 
-                            <a rel="next" href="admin-brand-central.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                            <a rel="next" href="shufflrr.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
                                 <i class="fa fa-angle-right"></i>
                             </a>
 
@@ -271,11 +251,11 @@
             </div>
 
             <nav class="nav-wide-wrapper" aria-label="Page navigation">
-                    <a rel="prev" href="admin-workflow.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                    <a rel="prev" href="powerpoint-addin-create-edit.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                         <i class="fa fa-angle-left"></i>
                     </a>
 
-                    <a rel="next" href="admin-brand-central.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                    <a rel="next" href="shufflrr.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
                         <i class="fa fa-angle-right"></i>
                     </a>
             </nav>

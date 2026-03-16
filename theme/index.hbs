@@ -300,6 +300,35 @@
         <script src="{{ path_to_root }}clipboard.min.js" type="text/javascript" charset="utf-8"></script>
         <script src="{{ path_to_root }}highlight.js" type="text/javascript" charset="utf-8"></script>
         <script src="{{ path_to_root }}book.js" type="text/javascript" charset="utf-8"></script>
+        <script type="text/javascript">
+        (function() {
+          function initSidebarArrows() {
+            var sidebar = document.getElementById('sidebar');
+            if (!sidebar) return;
+            var chapters = sidebar.querySelectorAll('.chapter > li.chapter-item');
+            chapters.forEach(function(li) {
+              var next = li.nextElementSibling;
+              if (!next || !next.querySelector('ol.section')) return;
+              li.classList.add('has-children');
+              var arrow = document.createElement('span');
+              arrow.className = 'sidebar-arrow';
+              arrow.setAttribute('aria-label', 'Toggle section');
+              arrow.innerHTML = '\u25B6';
+              arrow.addEventListener('click', function(e) {
+                e.preventDefault();
+                e.stopPropagation();
+                li.classList.toggle('expanded');
+              });
+              li.insertBefore(arrow, li.firstChild);
+            });
+          }
+          if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', initSidebarArrows);
+          } else {
+            initSidebarArrows();
+          }
+        })();
+        </script>
 
         <!-- Custom JS scripts -->
         {{#each additional_js}}
