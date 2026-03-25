@@ -1,21 +1,16 @@
-# Insert slides and images with the Shufflrr Add-in
+# Insert slides and images
 
-You can find slides and images from your Shufflrr library and insert them into your PowerPoint presentation without leaving the Add-in. Use AI search or browse by folder and keyword.
+You can find slides and images from your Shufflrr library and insert them into your PowerPoint presentation without leaving the Add-in.
 
 ## How to find a slide
 
-**Option 1 — Shufflrr AI**
-
-1. In the Add-in, select the first tab, **AI** (Shufflrr AI / AI Chat).
-2. Describe the slide or content you need (e.g., "pricing table," "team org chart").
-3. Shufflrr returns files with slides and content matching your description.
-4. Click a file to open a preview, scroll through the slides, pick one, and insert it into your presentation.
-
-**Option 2 — Browse and search**
+Use the **Files** tab to browse and search:
 
 1. Open the **Files** tab in the task pane.
 2. Browse the **folders and files** in your library (OneDrive, Shufflrr, SharePoint).
 3. Use **keyword search** for files stored in Shufflrr Cloud to narrow results.
+
+For AI search, see [Shufflrr AI in the Add-in](powerpoint-addin-ai.md).
 
 ## How to add a slide to your presentation
 
@@ -42,6 +37,5 @@ Microsoft Office does not currently support video inside Add-ins. When Microsoft
 
 ## Quick tips
 
-- Use the **built-in AI search** to find slides, decks, and related SharePoint files quickly.
 - **Office 365 auto-saves** your changes as you work.
 - Keep **file names identical** when updating files so version tracking and auto-updates work correctly.

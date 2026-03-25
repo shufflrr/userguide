@@ -177,6 +177,15 @@ body {
   min-width: 0;
 }
 
+/* Make top-level folder labels readable (non-link sidebar items). */
+.sidebar .chapter li.chapter-item > div,
+.sidebar .chapter li.chapter-item > span,
+.sidebar .chapter li.chapter-item > .chapter-link-wrapper > span {
+  color: var(--sidebar-fg);
+  opacity: 0.95;
+  font-weight: 700;
+}
+
 @media (max-width: 1100px) {
   #header-nav-wrapper .header-nav {
     padding: calc(var(--page-padding) * 0.75);
