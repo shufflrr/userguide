@@ -4,6 +4,13 @@
   --shufflrr-blue: #0078FF;
 }
 
+/* Inline `code` uses highlight.js `.hljs`; tomorrow-night.css gives `.hljs` a
+   dark background while light theme uses a dark --inline-code-color — illegible.
+   Transparent background keeps readable text without an extra highlight panel. */
+.content :not(pre) > .hljs {
+  background: transparent;
+}
+
 html {
   font-family: "Proxima Vara", "Open Sans", sans-serif;
 }
