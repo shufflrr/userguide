@@ -51,7 +51,7 @@ The authentication section includes four options.
 * SAML Single Sign-On is the most complex. Documentation can be found here: 
 	* [ADFS (Microsoft Active Directory) documentation](https://shufflrr.com/assets/saml-adfs3.html)
 	* [Okta documentation](https://shufflrr.com/assets/saml-okta.html)
-* Last is OpenId. That documentation is [here](https://shufflrr.com/assets/openid-okta.html). 
+* Last is OpenID. That documentation is [here](https://shufflrr.com/assets/openid-okta.html). 
 
 ### IP Address Whitelisting (Allow-listing)
 
@@ -94,7 +94,6 @@ For example, when a disclaimer slide is added here, it will show at the end of e
 ### User Defaults
 
 This section allows the admin to configure the default notifications for all users. Users can also control these settings in their personal profile.  
-
 
 
 

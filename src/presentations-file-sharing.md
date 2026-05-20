@@ -15,7 +15,7 @@
 
 ## Steps
 
-There are many ways to share a deck. For one, click the down arrow next to the file name in the left navigation to see a share option.
+There are many ways to share a deck. For one, click the three dots next to the file name in the left navigation to see a share option.
 
 ![How to share a presentation](img/presentations-howtoshare.png)
 
@@ -35,4 +35,3 @@ The success popup will have a link you can click to see the share, or use icons 
 ![File sharing success popup](img/presentations-sharefilesuccess.png) 
 
 You can see whether your past shares were opened or downloaded as well as take action on past shares - see the [user profile shares tab](admin-users.md#share-reporting) information. 
-

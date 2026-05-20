@@ -1,0 +1,3 @@
+# asdf-vm: https://asdf-vm.com/
+# Install a compatible mdbook plugin, then: asdf install mdbook 0.4.52
+mdbook 0.4.52

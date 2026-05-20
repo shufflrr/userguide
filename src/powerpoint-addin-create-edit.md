@@ -8,7 +8,7 @@ You can open existing Shufflrr presentations in PowerPoint, edit them, and save 
 2. In the **Home** ribbon, click the **Shufflrr** icon to open the Add-in.
 3. Sign in and connect **OneDrive**, **Shufflrr**, and **SharePoint** as needed (see [Sign in to the Shufflrr Add-in](powerpoint-addin-sign-in.md)).
 4. In the Shufflrr task pane, you'll see your files. **Double-click** a file name to open it in PowerPoint.
-5. The file must be opened in **Office 365 PowerPoint (web)** in order to add slides.
+5. The file must be opened in **Office 365 PowerPoint** in order to add slides.
 6. Click once to preview the file. The slide thumbnails will appear below the file name. Scroll left to right.
 7. Select a slide and click **Insert** to add it to your current presentation.
 8. **Office 365 auto-saves** as you work. For files opened from OneDrive or SharePoint, no extra save step is needed.

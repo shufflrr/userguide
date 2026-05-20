@@ -1,0 +1,4 @@
+# mise: https://mise.jdx.dev/ — pins mdbook for this repo (`mise install`).
+# If `mdbook` is not available as a tool on your setup, use `cargo install` from README.md instead.
+[tools]
+mdbook = "0.4.52"

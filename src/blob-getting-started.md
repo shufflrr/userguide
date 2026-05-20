@@ -29,6 +29,6 @@ Press Enter or click **Generate** to submit the request.
 
 ## 4. Review and use results
 
-Each active agent returns slide results related to the selected prompt. Review the thumbnails, switch views if needed, and send the best slide to broadcast when appropriate.
+Each active agent returns slide results related to the selected prompt. Review the thumbnails, switch views if needed, and play the best slide or file when you are ready to present.
 
 > **Tip:** More specific prompts usually produce better results.

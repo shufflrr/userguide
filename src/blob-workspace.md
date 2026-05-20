@@ -63,14 +63,14 @@ Tile mode changes the layout to a larger, more visual grid.
 2. Review the larger slide previews.
 3. Use previous and next controls to browse each agent's slides.
 
-## Send to Broadcast
+## Use Results in a Broadcast
 
-Slides can be pushed from the agent feed into the live broadcast window.
+Slides returned by agents can be played in Shufflrr and shared through the broadcast app of your choice.
 
 **Steps**
 
-1. Hover over a slide thumbnail.
-2. Click the broadcast button.
-3. Confirm the action in the dialog.
-
-The slide appears in the live broadcast window immediately.
+1. Open the slide or file you want to present.
+2. Click **Play** to show it in Shufflrr.
+3. Connect to Zoom, Microsoft Teams, WebEx, or another broadcast app.
+4. Use **Share Screen** in that app.
+5. Show the Shufflrr slide or file in Play or full-screen mode.

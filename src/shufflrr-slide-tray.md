@@ -5,7 +5,7 @@ The Slide Tray is the workbench. It is where the work in progress rests while it
 
 ## Steps
 
-Use the slide tray to build your new deck. It holds your work in progress as you move around gathering more materials for your deck. 
+Use the slide tray, also called the Slide Cart, to build your new deck. It holds your work in progress as you move around gathering more materials for your deck. 
 
 ![Slide tray holds work in progress](img/shufflrr-slide-tray2.png)
 
@@ -19,11 +19,12 @@ From anywhere you see slides, you can add additional slides into the tray.
 * From the Presentations tab displaying another presentation and its slides
 * From the Browse tab
 
-Once you have the slides you need, click Save.
+Add slides by dragging them into the slide tray or by clicking the plus icon in the upper right of a slide thumbnail.
+
+Once you have the slides you need, click Save. Name the file and choose the folder where it should be saved.
 
 >**Pro Tip!**
 > 
 >Remember to save what you've pulled into your slide tray before working with it. This saves the collected slides into a Child deck that can be updated by the Parent deck. For more information see [Parent-Child Relationships](presentations-slide-inheritance.md).
 
 Once you click save, the presentation will go through processing, then save to your selected folder. For more information see [File Processing](presentations-uploading.md#uploadProcessing).  
-

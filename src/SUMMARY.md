@@ -1,5 +1,6 @@
 # SUMMARY
 
+- [Ask AI](ask-ai.md)
 - [Shufflrr Blob]()
     - [What is Shufflrr Blob?](blob-overview.md)
     - [Getting Started](blob-getting-started.md)
@@ -21,6 +22,9 @@
         - [Search](shufflrr-search.md)
         - [Slide Tray](shufflrr-slide-tray.md)
         - [Top Navigation](shufflrr-account-nav.md)
+        - [Access and Login Troubleshooting](shufflrr-access-login.md)
+        - [Integrations and APIs](shufflrr-integrations-api.md)
+        - [Security and Content Control](shufflrr-security.md)
     - [Presentations](presentations.md)
         - [Folders](presentations-folders.md)
         - [Permissions](presentations-permissions.md)
@@ -30,6 +34,7 @@
         - [Building Child Presentations](presentations-building.md)
         - [Parent-Child Updating](presentations-version-control.md)
         - [File Sharing](presentations-file-sharing.md)
+        - [Downloading Files and Slides](presentations-downloads.md)
         - [File History](presentations-file-history.md)
         - [Files-Slides Toggle](presentations-files-slides-toggle.md)
         - [PresentLive™](presentations-present-live.md)

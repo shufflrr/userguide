@@ -49,6 +49,18 @@ Expanding a source shows the files connected to that source.
 
 ![Content Sources page with Add Content Source](img/blob-content-sources-add.png)
 
+## Connect SharePoint
+
+Use these steps when you want Shufflrr Blob agents to search SharePoint content.
+
+1. Go to **Content Sources**.
+2. Click **Add Content Source**.
+3. Choose **SharePoint** as the source type.
+4. Browse to the SharePoint source.
+5. Use the drop-down to connect.
+6. Define the batch size for the initial indexing run.
+7. Click **Start Indexing**.
+
 ## Delete a content source
 
 **Steps**

@@ -220,14 +220,14 @@ To set up permissions, click the three dots at the right side of the folder name
 
 ![Giving permissions to a folder](img/presentations-permissions.png) 
 
-In the first box, type the name of the group who should have permissions to this folder. 
+In the first box, type the person or group name that should have access to this folder. 
 
 ![Search for the group you want to give permissions to](img/presentations-permissions-modal.png)
 
 Select View Only, Read, Write, or Full Control.
 * _View Only_ means users can only view & present from this folder, but cannot copy, download, or change slides in this folder. 
-* _Read_ means users can see slides from this folder, and pull slides from here to make new presentations, but cannot change slides in this folder. 
-* _Write_  means users can edit the slides and presentations in this folder. 
+* _Read_ means users can view, present, and use material in this folder in new presentations, but cannot upload to or delete files from this folder. 
+* _Write_  means users can view, present, use, upload, delete, and edit material in this folder. 
 * _Full Control_ means users can take any action on material in the folder, as well as updating permissions on the folder itself. 
 
 ![Select read, write, and share as appropriate](img/presentations-permissions-modal2.png)
@@ -236,5 +236,3 @@ Select View Only, Read, Write, or Full Control.
 >
 > For Read or Write, select whether this group can share presentations or not (Full Control always allows sharing; View Only never allows sharing). Sharing a presentation gives the user the ability to send it to anyone internal or external in a read-only, slide-show-viewer format. 
  
-
-

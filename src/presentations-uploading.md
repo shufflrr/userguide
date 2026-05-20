@@ -25,7 +25,7 @@ Once your folder structure is created, you can begin uploading the central libra
 
 ![Uploading from the home page](img/presentations-upload-homepage.png)
 
-* From the "presentations" tab, go to the folder where you want to upload the presentation. Either click "upload" in the top bar or, select the sub-folder and click the down arrow. 
+* From the "presentations" tab, go to the folder where you want to upload the presentation. Either click "upload" in the top bar or select the sub-folder and click the three dots. 
 	
 ![Uploading from other pages](img/presentations-upload-otherpage.png)
 	
@@ -53,4 +53,4 @@ File processing takes a few minutes when a file is added or saved. Here's how to
 
 > **Pro tip:** 
 >
-> Accidentally put the folder or file in the wrong place? Click the down arrow next to the file or folder name for the option to move it. Select the new parent folder. 
+> Accidentally put the folder or file in the wrong place? Click the three dots next to the file or folder name for the option to move it. Select the new parent folder. 

@@ -27,16 +27,16 @@ Select the user tab, search for users, and click "Add" to add specific people to
 ![Adding people to a group](img/presentations-permissions-groups-addusers.png)
 
 ### Give groups permissions 
-Click the down-arrow on the right side of the folder name. Select "Permissions."
+Click the three dots next to the folder name. Select "Permissions."
 ![Giving permissions to a folder](img/presentations-permissions.png) 
-In the first box, type the name of the group who should have permissions to this folder. 
+In the first box, type the person or group name that should have access to this folder. 
 ![Search for the group you want to give permissions to](img/presentations-permissions-modal.png)
 * <a name="readOnlyPermissionSetup"></a>Select View Only, Read, Write, or Full Control.
 	* _View Only_: 
 		* Users can ONLY VIEW & PRESENT from this folder. 
 	NO copying, downloading, or editing, or using this material in new presentations. 
-    * _Read_ means users can VIEW, PRESENT, and USE material in this folder in new presentations, but cannot EDIT slides in this folder. 
-    * _Write_  means users can VIEW, PRESENT, USE, and EDIT material in this folder. 
+    * _Read_ means users can VIEW, PRESENT, and USE material in this folder in new presentations, but cannot UPLOAD to or DELETE files from this folder. 
+    * _Write_  means users can VIEW, PRESENT, USE, UPLOAD, DELETE, and EDIT material in this folder. 
     * _Full Control_ means users can take ANY ACTION on material in the folder, as well as updating permissions on the folder itself. 
     
 * For Read or Write, select whether this group can SHARE presentations or not. 

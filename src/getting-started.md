@@ -50,7 +50,7 @@ File processing takes a few minutes when a file is added or saved. Here's how to
 
 > **Pro tip:** 
 >
-> Accidentally put the folder or file in the wrong place? Click the down arrow next to the file or folder name for the option to move it. Select the new parent folder. 
+> Accidentally put the folder or file in the wrong place? Click the three dots next to the file or folder name for the option to move it. Select the new parent folder. 
 
 ### 2. Organize
 
@@ -62,7 +62,7 @@ In Shufflrr,
 * Every presentation is a story
 * Every slide is a scene
 
-To create a folder, click the little down-arrow on the right side of the parent folder name. "Create Folder" is one of the options. The new folder will be inside this one.  
+To create a folder, click the three dots next to the parent folder name. "Create Folder" is one of the options. The new folder will be inside this one.  
 
 ![How to make a folder](img/upload-makefolder.png) 
 
@@ -76,18 +76,18 @@ For example:
 
 <a name="permissions"></a>You can use permissions to organize who can see what content, and who can use it, and use it in which ways. 
 
-To set up permissions, click the down-arrow on the right side of the folder name. Select "Permissions."
+To set up permissions, click the three dots next to the folder name. Select "Permissions."
 
 ![Giving permissions to a folder](img/presentations-permissions.png) 
 
-In the first box, type the name of the group who should have permissions to this folder. 
+In the first box, type the person or group name that should have access to this folder. 
 
 ![Search for the group you want to give permissions to](img/presentations-permissions-modal.png)
 
 Select View Only, Read, Write, or Full Control.
 * _View Only_ means users can only view & present from this folder, but cannot copy, download, or change slides in this folder. 
-* _Read_ means users can see slides from this folder, and pull slides from here to make new presentations, but cannot change slides in this folder. 
-* _Write_  means users can edit the slides and presentations in this folder. 
+* _Read_ means users can view, present, and use material in this folder in new presentations, but cannot upload to or delete files from this folder. 
+* _Write_  means users can view, present, use, upload, delete, and edit material in this folder. 
 * _Full Control_ means users can take any action on material in the folder, as well as updating permissions on the folder itself. 
 
 ![Select read, write, and share as appropriate](img/presentations-permissions-modal2.png)
@@ -148,5 +148,3 @@ Perform more searches to get more slides.
 Now, you can use [PresentLive™](presentations-present-live.md) to present your decks, better than Zoom. Track who attends, what they see, and what they say. And, on the fly, search and present additional content so that the "presentation follows the conversation."
 
 Use [reporting](reports.md) functions to see how you're doing, and how your best sales people do their job! 
-
-

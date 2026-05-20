@@ -6,20 +6,15 @@
 
 ## Why use PresentLive™? 
 
-* Present to anyone anytime - better than Zoom.
-* Everyone can see the presenter and the presentation
-* Sessions are automatically recorded. 
-* Plus, you will have reporting data on: 
-	* who was in attendance when
-	* what slides they saw
-	* what their comments were
+Use PresentLive™ when you want to present Shufflrr slides directly from Shufflrr. You can also present through a broadcast app such as Zoom, Microsoft Teams, or WebEx by playing the slide or file in Shufflrr and sharing your screen.
 	
 ## Steps
 
-* To present a deck, first click the "play" button. 
-    * You can find this in the top right of the main area of the presentations screen. 
-    * Or, you can click the down arrow next to the filename in the left navigation 
-* Then click the "PresentLive™" button that appears at the bottom of the screen.
+* To present a deck, first click the "play" button.
+    * You can find this in the top right of the main area of the presentations screen.
+    * Or, you can click the three dots next to the filename in the left navigation.
+* To broadcast through Zoom, Microsoft Teams, WebEx, or another app, connect to that app, choose Share Screen, and show the Shufflrr slide or file in Play or full-screen mode.
+* To use PresentLive™, click the "PresentLive™" button that appears at the bottom of the screen.
 
 ![Starting a PresentLive session](img/presentations-presentlive-start.png)
 

@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+# Run mdBook only if it is v0.4.52 (matches README / custom theme).
+# Usage: ./scripts/mdbook build   OR   ./scripts/mdbook serve
+set -euo pipefail
+
+REQUIRED_SUB="0.4.52"
+
+if [[ -n "${MDBOOK_BIN:-}" ]]; then
+  candidates=("$MDBOOK_BIN")
+else
+  candidates=("$HOME/.cargo/bin/mdbook" "$(command -v mdbook 2>/dev/null || true)")
+fi
+
+mdbook_bin=""
+for c in "${candidates[@]}"; do
+  if [[ -n "$c" && -x "$c" ]]; then
+    mdbook_bin="$c"
+    break
+  fi
+done
+
+if [[ -z "$mdbook_bin" ]]; then
+  echo "mdbook not found. Install the version from the README:" >&2
+  echo "  cargo install mdbook --version 0.4.52 --locked" >&2
+  exit 1
+fi
+
+ver_line="$("$mdbook_bin" --version 2>/dev/null || true)"
+if [[ "$ver_line" != *"$REQUIRED_SUB"* ]]; then
+  echo "ERROR: This book requires mdBook $REQUIRED_SUB (see README.md)." >&2
+  echo "  You are running: $mdbook_bin -> $ver_line" >&2
+  echo "  Install: cargo install mdbook --version 0.4.52 --locked" >&2
+  echo "  Then either use ~/.cargo/bin/mdbook or set MDBOOK_BIN to that path." >&2
+  exit 1
+fi
+
+exec "$mdbook_bin" "$@"

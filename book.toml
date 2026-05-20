@@ -8,6 +8,7 @@ description = "The premiere Presentation Management System"
 [output.html]
 preferred-dark-theme = "light"
 additional-css = ["fonts.css", "custom.css"]
+additional-js = ["guide-context.js", "ai-chatbot.js"]
 git-repository-url = "https://github.com/shufflrr/userguide"
 git-repository-icon = "fa-github"
 cname = "howto.shufflrr.com"

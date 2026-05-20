@@ -1,23 +1,17 @@
 # Live Broadcast
 
-The live broadcast window displays the currently selected broadcast slide in a floating panel.
+Live broadcast in Shufflrr means playing a slide or file in full screen, then sharing that Shufflrr presentation through the meeting or broadcast app of your choice.
 
-It appears automatically after a user sends a slide to broadcast.
+Use Zoom, Microsoft Teams, WebEx, or another broadcast app to share your screen while Shufflrr is in Play or full-screen mode.
 
 ![Live Broadcast panel with LIVE status, slide preview, and queue](img/blob-live-broadcast.png)
 
-## Use the broadcast window
+## Broadcast a slide or file
 
 **Steps**
 
-1. Send a slide to broadcast from the workspace.
-2. Review the floating broadcast panel.
-3. Drag the panel to reposition it.
-4. Use the size controls to expand or shrink it.
-5. Use the close or minimize control when needed.
-
-## Broadcast history
-
-A history strip appears in the panel and displays previously broadcast slides.
-
-Users can scroll through the history and identify the current slide.
+1. Open the slide or file you want to present.
+2. Click **Play** to show it in Shufflrr.
+3. Connect to the broadcast app of your choice, such as Zoom, Microsoft Teams, or WebEx.
+4. Use **Share Screen** in that app.
+5. Show the Shufflrr slide or file in Play or full-screen mode.
