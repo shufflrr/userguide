@@ -91,6 +91,33 @@
       .replace(/\n/g, "<br/>");
   }
 
+  function injectAskAiStyles() {
+    if (document.getElementById(ROOT + "-styles")) return;
+
+    var style = document.createElement("style");
+    style.id = ROOT + "-styles";
+    style.textContent =
+      "#" + ROOT + "-root{max-width:920px;margin:0 auto 4rem;}" +
+      ".content main:has(#" + ROOT + "-root){max-width:1040px;}" +
+      ".shufflrr-ask-ai{border:1px solid rgba(0,120,255,.18);border-radius:16px;background:#fff;color:#161b2f;overflow:hidden;box-shadow:0 14px 40px rgba(4,27,62,.14);}" +
+      ".shufflrr-ask-ai__messages{min-height:190px;max-height:min(56vh,520px);overflow-y:auto;padding:14px 16px;display:flex;flex-direction:column;gap:12px;background:radial-gradient(circle at 90% 0%,rgba(0,120,255,.06),transparent 35%),radial-gradient(circle at 0% 100%,rgba(32,56,100,.08),transparent 40%);}" +
+      ".shufflrr-ask-ai__message{border-radius:12px;font-size:14px;line-height:1.45;padding:10px 12px;border:1px solid transparent;}" +
+      ".shufflrr-ask-ai__message--assistant{background:rgba(0,120,255,.09);border-color:rgba(0,120,255,.22);}" +
+      ".shufflrr-ask-ai__message--user{align-self:flex-end;max-width:82%;background:rgba(32,56,100,.13);border-color:rgba(32,56,100,.28);}" +
+      ".shufflrr-ask-ai__refs-title{margin-top:9px;font-weight:700;color:#1e63b7;}" +
+      ".shufflrr-ask-ai__refs{margin:6px 0 0;padding-left:18px;}" +
+      ".shufflrr-ask-ai__form{display:flex;gap:10px;padding:14px 16px;border-top:1px solid rgba(0,120,255,.16);background:rgba(0,120,255,.04);}" +
+      ".shufflrr-ask-ai__input{flex:1;min-width:0;border-radius:10px;border:1px solid rgba(0,120,255,.25);padding:10px 12px;background:#fff;color:inherit;font:inherit;transition:border-color .2s ease,box-shadow .2s ease;}" +
+      ".shufflrr-ask-ai__input:focus{outline:none;border-color:#0078ff;box-shadow:0 0 0 3px rgba(0,120,255,.18);}" +
+      ".shufflrr-ask-ai__submit{border:0;border-radius:10px;padding:10px 14px;cursor:pointer;color:#fff;font-weight:700;background:linear-gradient(90deg,#203864 0%,#0078ff 100%);box-shadow:0 8px 20px rgba(0,120,255,.28);transition:transform .15s ease,box-shadow .15s ease;white-space:nowrap;}" +
+      ".shufflrr-ask-ai__submit:hover{transform:translateY(-1px);box-shadow:0 12px 24px rgba(0,120,255,.35);}" +
+      ".shufflrr-ask-ai__submit:active{transform:translateY(0);}" +
+      ".shufflrr-ask-ai__typing{opacity:.6;font-style:italic;}" +
+      ".shufflrr-ask-ai__error{color:#c53030;}" +
+      "@media(max-width:700px){#" + ROOT + "-root{max-width:none;margin-bottom:2rem}.shufflrr-ask-ai__messages{min-height:160px;max-height:52vh}.shufflrr-ask-ai__form{flex-direction:column}.shufflrr-ask-ai__submit{width:100%}}";
+    document.head.appendChild(style);
+  }
+
   // ─── Page matching (source links only) ───────────────────────────────────────
 
   function matchPages(question) {
@@ -196,6 +223,8 @@
   // ─── Main chat mount ─────────────────────────────────────────────────────────
 
   function mountAskAiPage(rootEl) {
+    injectAskAiStyles();
+
     rootEl.innerHTML =
       '<div class="' + ROOT + '">' +
         '<div class="' + ROOT + '__messages"></div>' +
